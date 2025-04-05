@@ -1,0 +1,2866 @@
+{
+    "-38": [
+        "Superior Sigil Of Leeching",
+        "https://wiki.guildwars2.com/images/0/05/Superior_Sigil_of_Leeching.png"
+    ],
+    "9283": [
+        "Reinforced Armor",
+        "https://wiki.guildwars2.com/images/8/83/Reinforced_Armor.png"
+    ],
+    "9281": [
+        "Minor Sigil Of Bloodlust",
+        "https://wiki.guildwars2.com/images/2/23/Minor_Sigil_of_Bloodlust.png"
+    ],
+    "9285": [
+        "Major Sigil Of Bloodlust",
+        "https://wiki.guildwars2.com/images/a/ac/Major_Sigil_of_Bloodlust.png"
+    ],
+    "9286": [
+        "Superior Sigil Of Bloodlust",
+        "https://wiki.guildwars2.com/images/f/fb/Superior_Sigil_of_Bloodlust.png"
+    ],
+    "9288": [
+        "Minor Sigil Of Blood",
+        "https://wiki.guildwars2.com/images/d/d4/Minor_Sigil_of_Blood.png"
+    ],
+    "9298": [
+        "Major Sigil Of Restoration",
+        "https://wiki.guildwars2.com/images/c/cd/Major_Sigil_of_Restoration.png"
+    ],
+    "9374": [
+        "Superior Sigil Of Corruption",
+        "https://wiki.guildwars2.com/images/1/18/Superior_Sigil_of_Corruption.png"
+    ],
+    "9375": [
+        "Major Sigil Of Corruption",
+        "https://wiki.guildwars2.com/images/d/dd/Major_Sigil_of_Corruption.png"
+    ],
+    "9376": [
+        "Minor Sigil Of Corruption",
+        "https://wiki.guildwars2.com/images/5/50/Minor_Sigil_of_Corruption.png"
+    ],
+    "9384": [
+        "Major Sigil Of Perception",
+        "https://wiki.guildwars2.com/images/c/cf/Major_Sigil_of_Perception.png"
+    ],
+    "9385": [
+        "Superior Sigil Of Perception",
+        "https://wiki.guildwars2.com/images/c/cc/Superior_Sigil_of_Perception.png"
+    ],
+    "9386": [
+        "Superior Sigil Of Life",
+        "https://wiki.guildwars2.com/images/a/a7/Superior_Sigil_of_Life.png"
+    ],
+    "9387": [
+        "Major Sigil Of Life",
+        "https://wiki.guildwars2.com/images/2/2e/Major_Sigil_of_Life.png"
+    ],
+    "9398": [
+        "Superior Sigil Of Benevolence",
+        "https://wiki.guildwars2.com/images/9/91/Superior_Sigil_of_Sanctuary.png"
+    ],
+    "9399": [
+        "Major Sigil Of Benevolence",
+        "https://wiki.guildwars2.com/images/c/c8/Major_Sigil_of_Benevolence.png"
+    ],
+    "9400": [
+        "Minor Sigil Of Benevolence",
+        "https://wiki.guildwars2.com/images/f/ff/Minor_Sigil_of_Benevolence.png"
+    ],
+    "9413": [
+        "Superior Sigil Of Restoration",
+        "https://wiki.guildwars2.com/images/2/24/Superior_Sigil_of_Restoration.png"
+    ],
+    "9417": [
+        "Major Sigil Of Leeching",
+        "https://wiki.guildwars2.com/images/3/3f/Major_Sigil_of_Leeching.png"
+    ],
+    "9422": [
+        "Superior Sigil Of Vision",
+        "https://wiki.guildwars2.com/images/4/4f/Superior_Sigil_of_Vision.png"
+    ],
+    "9440": [
+        "Major Sigil Of Doom",
+        "https://wiki.guildwars2.com/images/7/78/Major_Sigil_of_Doom.png"
+    ],
+    "9441": [
+        "Superior Sigil Of Doom",
+        "https://wiki.guildwars2.com/images/6/67/Superior_Sigil_of_Doom.png"
+    ],
+    "9457": [
+        "Major Sigil Of Blood",
+        "https://wiki.guildwars2.com/images/9/9b/Major_Sigil_of_Blood.png"
+    ],
+    "9458": [
+        "Superior Sigil Of Blood",
+        "https://wiki.guildwars2.com/images/a/ab/Superior_Sigil_of_Blood.png"
+    ],
+    "9586": [
+        "Superior Rune Of The Dolyak",
+        "https://wiki.guildwars2.com/images/2/28/Superior_Rune_of_the_Dolyak.png"
+    ],
+    "9703": [
+        "Minor Sigil Of Doom",
+        "https://wiki.guildwars2.com/images/5/51/Minor_Sigil_of_Doom.png"
+    ],
+    "9733": [
+        "Bowl Of Simple Stirfry",
+        "https://wiki.guildwars2.com/images/a/ad/Bowl_of_Simple_Stirfry.png"
+    ],
+    "9734": [
+        "Bowl Of Garlic Spinach Sautee",
+        "https://wiki.guildwars2.com/images/e/e4/Bowl_of_Garlic_Spinach_Sautee.png"
+    ],
+    "9736": [
+        "Bowl Of Avocado Stirfry",
+        "https://wiki.guildwars2.com/images/7/72/Bowl_of_Avocado_Stirfry.png"
+    ],
+    "9737": [
+        "Bowl Of Eggplant Stirfry",
+        "https://wiki.guildwars2.com/images/3/35/Bowl_of_Eggplant_Stirfry.png"
+    ],
+    "9738": [
+        "Bowl Of Lotus Stirfry",
+        "https://wiki.guildwars2.com/images/5/59/Bowl_of_Lotus_Stirfry.png"
+    ],
+    "9739": [
+        "Bowl Of Sauteed Zucchini With Nutmeg",
+        "https://wiki.guildwars2.com/images/c/ce/Bowl_of_Sauteed_Zucchini_with_Nutmeg.png"
+    ],
+    "9740": [
+        "Bowl Of Cauliflower Sautee",
+        "https://wiki.guildwars2.com/images/7/74/Bowl_of_Cauliflower_Sautee.png"
+    ],
+    "9741": [
+        "Bowl Of Eggplant Sautee",
+        "https://wiki.guildwars2.com/images/a/aa/Bowl_of_Eggplant_Sautee.png"
+    ],
+    "9742": [
+        "Bowl Of Truffle Sautee",
+        "https://wiki.guildwars2.com/images/1/15/Bowl_of_Truffle_Sautee.png"
+    ],
+    "9743": [
+        "Spicy Meat Kabob",
+        "https://wiki.guildwars2.com/images/9/98/Spicy_Meat_Kabob.png"
+    ],
+    "9745": [
+        "Pepper Steak Dinner",
+        "https://wiki.guildwars2.com/images/f/fc/Pepper_Steak_Dinner.png"
+    ],
+    "9747": [
+        "Sesame Roasted Dinner",
+        "https://wiki.guildwars2.com/images/0/00/Sesame-Roasted_Dinner.png"
+    ],
+    "9748": [
+        "Plate Of Coriander Crusted Meat Dinner",
+        "https://wiki.guildwars2.com/images/6/61/Plate_of_Coriander_Crusted_Meat_Dinner.png"
+    ],
+    "9749": [
+        "Plate Of Steak And Asparagus Dinner",
+        "https://wiki.guildwars2.com/images/b/b9/Plate_of_Steak_and_Asparagus_Dinner.png"
+    ],
+    "9750": [
+        "Dragons Breath Bun",
+        "https://wiki.guildwars2.com/images/5/53/Dragon%27s_Breath_Bun.png"
+    ],
+    "9751": [
+        "Marinated Mushroom",
+        "https://wiki.guildwars2.com/images/3/36/Marinated_Mushroom.png"
+    ],
+    "9752": [
+        "Sage Stuffed Mushroom",
+        "https://wiki.guildwars2.com/images/a/a4/Sage-Stuffed_Mushroom.png"
+    ],
+    "9753": [
+        "Divinity Stuffed Mushroom",
+        "https://wiki.guildwars2.com/images/5/51/Divinity_Stuffed_Mushroom.png"
+    ],
+    "9754": [
+        "Eztlitl Stuffed Mushroom",
+        "https://wiki.guildwars2.com/images/3/3d/Eztlitl_Stuffed_Mushroom.png"
+    ],
+    "9755": [
+        "Spicy Stuffed Mushroom",
+        "https://wiki.guildwars2.com/images/9/9d/Spicy_Stuffed_Mushroom.png"
+    ],
+    "9756": [
+        "Karka Egg Omelet",
+        "https://wiki.guildwars2.com/images/9/9e/Karka_Egg_Omelet.png"
+    ],
+    "9758": [
+        "Spicy Flank Steak",
+        "https://wiki.guildwars2.com/images/3/35/Spicy_Flank_Steak.png"
+    ],
+    "9759": [
+        "Bowl Of Cold Wurm Stew",
+        "https://wiki.guildwars2.com/images/8/8b/Bowl_of_Front_Line_Stew.png"
+    ],
+    "9760": [
+        "Stick Of Mystery Meat",
+        "https://wiki.guildwars2.com/images/6/6c/Warden_Ration.png"
+    ],
+    "9762": [
+        "Spicy Lime Steak",
+        "https://wiki.guildwars2.com/images/3/3d/Spicy_Lime_Steak.png"
+    ],
+    "9763": [
+        "Plate Of Citrus Clove Meat",
+        "https://wiki.guildwars2.com/images/5/56/Plate_of_Citrus_Clove_Meat.png"
+    ],
+    "9764": [
+        "Spicier Flank Steak",
+        "https://wiki.guildwars2.com/images/0/01/Spicier_Flank_Steak.png"
+    ],
+    "9765": [
+        "Plate Of Fire Flank Steak",
+        "https://wiki.guildwars2.com/images/2/27/Plate_of_Fire_Flank_Steak.png"
+    ],
+    "9766": [
+        "Filet Of Sesame Roasted Meat",
+        "https://wiki.guildwars2.com/images/7/70/Filet_of_Sesame-Roasted_Meat.png"
+    ],
+    "9767": [
+        "Plate Of Coriander Crusted Meat",
+        "https://wiki.guildwars2.com/images/e/eb/Plate_of_Coriander_Crusted_Meat.png"
+    ],
+    "9768": [
+        "Plate Of Steak And Asparagus",
+        "https://wiki.guildwars2.com/images/d/db/Plate_of_Steak_and_Asparagus.png"
+    ],
+    "9769": [
+        "Plate Of Truffle Steak",
+        "https://wiki.guildwars2.com/images/4/4c/Plate_of_Truffle_Steak.png"
+    ],
+    "9770": [
+        "Filet Of Rosemary Roasted Meat",
+        "https://wiki.guildwars2.com/images/f/f2/Filet_of_Rosemary-Roasted_Meat.png"
+    ],
+    "9771": [
+        "Plate Of Roast Meat With Mint Sauce",
+        "https://wiki.guildwars2.com/images/9/97/Plate_of_Roast_Meat_with_Mint_Sauce.png"
+    ],
+    "9772": [
+        "Plate Of Roast Meat With Braised Leeks",
+        "https://wiki.guildwars2.com/images/9/95/Plate_of_Roast_Meat_with_Braised_Leeks.png"
+    ],
+    "9773": [
+        "Plate Of Orrian Steak Frittes",
+        "https://wiki.guildwars2.com/images/4/4d/Plate_of_Orrian_Steak_Frittes.png"
+    ],
+    "9774": [
+        "Bowl Of Simple Vegetable Soup",
+        "https://wiki.guildwars2.com/images/6/6b/Bowl_of_Basic_Vegetable_Soup.png"
+    ],
+    "9776": [
+        "Bowl Of Ice Wurm Bisque",
+        "https://wiki.guildwars2.com/images/a/a8/Bowl_of_Ice_Wurm_Bisque.png"
+    ],
+    "9778": [
+        "Grumble Cake",
+        "https://wiki.guildwars2.com/images/b/b8/Grumble_Cake.png"
+    ],
+    "9779": [
+        "Bowl Of Dolyak Stew",
+        "https://wiki.guildwars2.com/images/e/e1/Bowl_of_Dolyak_Stew.png"
+    ],
+    "9780": [
+        "Loaf Of Banana Bread",
+        "https://wiki.guildwars2.com/images/8/8a/Loaf_of_Banana_Bread.png"
+    ],
+    "9782": [
+        "Plate Of Pasta With Tomato Sauce",
+        "https://wiki.guildwars2.com/images/6/6f/Plate_of_Pasta_with_Tomato_Sauce.png"
+    ],
+    "9784": [
+        "Meatball Dinner",
+        "https://wiki.guildwars2.com/images/3/38/Meatball_Dinner.png"
+    ],
+    "9786": [
+        "Grilled Mushroom",
+        "https://wiki.guildwars2.com/images/b/bf/Grilled_Mushroom.png"
+    ],
+    "9788": [
+        "Veggie Burger",
+        "https://wiki.guildwars2.com/images/2/25/Veggie_Burger.png"
+    ],
+    "9790": [
+        "Sugar Cookie",
+        "https://wiki.guildwars2.com/images/a/ad/Sugar_Cookie.png"
+    ],
+    "9792": [
+        "Strawberry Cookie",
+        "https://wiki.guildwars2.com/images/c/ca/Strawberry_Cookie.png"
+    ],
+    "9794": [
+        "Cherry Cookie",
+        "https://wiki.guildwars2.com/images/1/17/Cherry_Cookie.png"
+    ],
+    "9795": [
+        "Blackberry Cookie",
+        "https://wiki.guildwars2.com/images/7/72/Blackberry_Cookie.png"
+    ],
+    "9796": [
+        "Peach Cookie",
+        "https://wiki.guildwars2.com/images/4/43/Peach_Cookie.png"
+    ],
+    "9797": [
+        "Omnomberry Cookie",
+        "https://wiki.guildwars2.com/images/6/61/Omnomberry_Cookie.png"
+    ],
+    "9798": [
+        "Chocolate Chip Cookie",
+        "https://wiki.guildwars2.com/images/f/f0/Chocolate_Chip_Cookie.png"
+    ],
+    "9799": [
+        "Chocolate Mint Cookie",
+        "https://wiki.guildwars2.com/images/c/cd/Chocolate_Mint_Cookie.png"
+    ],
+    "9800": [
+        "Chocolate Raspberry Cookie",
+        "https://wiki.guildwars2.com/images/a/a4/Chocolate_Raspberry_Cookie.png"
+    ],
+    "9801": [
+        "Spicy Chocolate Cookie",
+        "https://wiki.guildwars2.com/images/0/06/Spicy_Chocolate_Cookie.png"
+    ],
+    "9802": [
+        "Bowl Of Yam Soup",
+        "https://wiki.guildwars2.com/images/8/8a/Bowl_of_Yam_Soup.png"
+    ],
+    "9803": [
+        "Bowl Of Pumpkin Bisque",
+        "https://wiki.guildwars2.com/images/2/26/Bowl_of_Pumpkin_Bisque.png"
+    ],
+    "9804": [
+        "Bowl Of Potato And Leek Soup",
+        "https://wiki.guildwars2.com/images/0/05/Bowl_of_Potato_and_Leek_Soup.png"
+    ],
+    "9805": [
+        "Bowl Of Fancy Potatoe And Leek Soup",
+        "https://wiki.guildwars2.com/images/e/e3/Bowl_of_Fancy_Potato_and_Leek_Soup.png"
+    ],
+    "9806": [
+        "Bowl Of Kale Soup",
+        "https://wiki.guildwars2.com/images/8/82/Bowl_of_Kale_Soup.png"
+    ],
+    "9807": [
+        "Bowl Of Chickpea Soup",
+        "https://wiki.guildwars2.com/images/6/61/Bowl_of_Chickpea_Soup.png"
+    ],
+    "9808": [
+        "Bowl Of Artichoke Soup",
+        "https://wiki.guildwars2.com/images/b/bb/Bowl_of_Artichoke_Soup.png"
+    ],
+    "9809": [
+        "Bowl Of Curry Pumpkin Soup",
+        "https://wiki.guildwars2.com/images/3/37/Bowl_of_Curry_Pumpkin_Soup.png"
+    ],
+    "9810": [
+        "Bowl Of Krytan Meatball Dinner",
+        "https://wiki.guildwars2.com/images/7/7c/Bowl_of_Krytan_Meatball_Dinner.png"
+    ],
+    "9811": [
+        "Bowl Of Pesto Pasta Salad",
+        "https://wiki.guildwars2.com/images/6/66/Bowl_of_Pesto_Pasta_Salad.png"
+    ],
+    "9812": [
+        "Bowl Of Poultry Tarragon Pasta",
+        "https://wiki.guildwars2.com/images/7/79/Bowl_of_Poultry_Tarragon_Pasta.png"
+    ],
+    "9813": [
+        "Plate Of Frostgorge Clams",
+        "https://wiki.guildwars2.com/images/7/72/Plate_of_Frostgorge_Clams.png"
+    ],
+    "9814": [
+        "Grilled Portobello Mushroom",
+        "https://wiki.guildwars2.com/images/1/13/Grilled_Portobello_Mushroom.png"
+    ],
+    "9815": [
+        "Bowl Of Mushroom Risotto",
+        "https://wiki.guildwars2.com/images/6/6a/Bowl_of_Mushroom_Risotto.png"
+    ],
+    "9816": [
+        "Bowl Of Mushroom And Asparagus Risotto",
+        "https://wiki.guildwars2.com/images/d/d5/Bowl_of_Mushroom_and_Asparagus_Risotto.png"
+    ],
+    "9817": [
+        "Bowl Of Truffle Risotto",
+        "https://wiki.guildwars2.com/images/e/ee/Bowl_of_Truffle_Risotto.png"
+    ],
+    "9818": [
+        "Bowl Of Orrian Truffle Soup",
+        "https://wiki.guildwars2.com/images/2/2d/Bowl_of_Orrian_Truffle_Soup.png"
+    ],
+    "9819": [
+        "Bowl Of Snow Truffle Soup",
+        "https://wiki.guildwars2.com/images/9/9e/Bowl_of_Snow_Truffle_Soup.png"
+    ],
+    "9820": [
+        "Bowl Of Fancy Creamy Mushroom Soup",
+        "https://wiki.guildwars2.com/images/4/40/Bowl_of_Fancy_Creamy_Mushroom_Soup.png"
+    ],
+    "9821": [
+        "Bowl Of Creamy Portobello Soup",
+        "https://wiki.guildwars2.com/images/5/56/Bowl_of_Creamy_Portobello_Soup.png"
+    ],
+    "9822": [
+        "Loaf Of Zucchini Bread",
+        "https://wiki.guildwars2.com/images/2/23/Loaf_of_Zucchini_Bread.png"
+    ],
+    "9823": [
+        "Slice Of Pumpkin Bread",
+        "https://wiki.guildwars2.com/images/7/77/Slice_of_Pumpkin_Bread.png"
+    ],
+    "9824": [
+        "Loaf Of Raspberry Peach Bread",
+        "https://wiki.guildwars2.com/images/8/83/Loaf_of_Raspberry_Peach_Bread.png"
+    ],
+    "9825": [
+        "Loaf Of Omnomberry Bread",
+        "https://wiki.guildwars2.com/images/3/37/Loaf_of_Omnomberry_Bread.png"
+    ],
+    "9826": [
+        "Bowl Of Tomato Zucchini Soup",
+        "https://wiki.guildwars2.com/images/6/66/Bowl_of_Tomato_Zucchini_Soup.png"
+    ],
+    "9827": [
+        "Bowl Of Cauliflower Soup",
+        "https://wiki.guildwars2.com/images/b/bd/Bowl_of_Cauliflower_Soup.png"
+    ],
+    "9828": [
+        "Bowl Of Butternut Squash Soup",
+        "https://wiki.guildwars2.com/images/9/98/Bowl_of_Butternut_Squash_Soup.png"
+    ],
+    "9829": [
+        "Bowl Of Curry Butternut Squash Soup",
+        "https://wiki.guildwars2.com/images/1/16/Bowl_of_Curry_Butternut_Squash_Soup.png"
+    ],
+    "9836": [
+        "Potent Potion Of Undead Slaying",
+        "https://wiki.guildwars2.com/images/9/9f/Potent_Potion_of_Undead_Slaying.png"
+    ],
+    "9837": [
+        "Powerful Potion Of Undead Slaying",
+        "https://wiki.guildwars2.com/images/b/bd/Powerful_Potion_of_Undead_Slaying.png"
+    ],
+    "9838": [
+        "Weak Potion Of Centaur Slaying",
+        "https://wiki.guildwars2.com/images/3/33/Weak_Potion_of_Centaur_Slaying.png"
+    ],
+    "9840": [
+        "Minor Potion Of Centaur Slaying",
+        "https://wiki.guildwars2.com/images/3/31/Minor_Potion_of_Centaur_Slaying.png"
+    ],
+    "9842": [
+        "Potion Of Centaur Slaying",
+        "https://wiki.guildwars2.com/images/6/6a/Potion_of_Centaur_Slaying.png"
+    ],
+    "9843": [
+        "Strong Potion Of Centaur Slaying",
+        "https://wiki.guildwars2.com/images/f/fa/Strong_Potion_of_Centaur_Slaying.png"
+    ],
+    "9844": [
+        "Potent Potion Of Centaur Slaying",
+        "https://wiki.guildwars2.com/images/c/c9/Potent_Potion_of_Centaur_Slaying.png"
+    ],
+    "9845": [
+        "Powerful Potion Of Centaur Slaying",
+        "https://wiki.guildwars2.com/images/3/3b/Powerful_Potion_of_Centaur_Slaying.png"
+    ],
+    "9846": [
+        "Weak Potion Of Grawl Slaying",
+        "https://wiki.guildwars2.com/images/c/ce/Weak_Potion_of_Grawl_Slaying.png"
+    ],
+    "9848": [
+        "Minor Potion Of Grawl Slaying",
+        "https://wiki.guildwars2.com/images/8/8e/Minor_Potion_of_Grawl_Slaying.png"
+    ],
+    "9850": [
+        "Potion Of Grawl Slaying",
+        "https://wiki.guildwars2.com/images/5/58/Potion_of_Grawl_Slaying.png"
+    ],
+    "9851": [
+        "Strong Potion Of Grawl Slaying",
+        "https://wiki.guildwars2.com/images/e/ed/Strong_Potion_of_Grawl_Slaying.png"
+    ],
+    "9852": [
+        "Potent Potion Of Grawl Slaying",
+        "https://wiki.guildwars2.com/images/6/6a/Potent_Potion_of_Grawl_Slaying.png"
+    ],
+    "9853": [
+        "Powerful Potion Of Grawl Slaying",
+        "https://wiki.guildwars2.com/images/1/15/Powerful_Potion_of_Grawl_Slaying.png"
+    ],
+    "9854": [
+        "Weak Potion Of Ice Brood Slaying",
+        "https://wiki.guildwars2.com/images/d/de/Weak_Potion_of_Ice_Brood_Slaying.png"
+    ],
+    "9856": [
+        "Minor Potion Of Ice Brood Slaying",
+        "https://wiki.guildwars2.com/images/d/de/Minor_Potion_of_Ice_Brood_Slaying.png"
+    ],
+    "9858": [
+        "Potion Of Ice Brood Slaying",
+        "https://wiki.guildwars2.com/images/a/af/Potion_of_Ice_Brood_Slaying.png"
+    ],
+    "9859": [
+        "Strong Potion Of Ice Brood Slaying",
+        "https://wiki.guildwars2.com/images/4/4e/Strong_Potion_of_Ice_Brood_Slaying.png"
+    ],
+    "9860": [
+        "Potent Potion Of Ice Brood Slaying",
+        "https://wiki.guildwars2.com/images/3/35/Potent_Potion_of_Ice_Brood_Slaying.png"
+    ],
+    "9861": [
+        "Powerful Potion Of Ice Brood Slaying",
+        "https://wiki.guildwars2.com/images/0/0d/Powerful_Potion_of_Ice_Brood_Slaying.png"
+    ],
+    "9862": [
+        "Weak Potion Of Destroyer Slaying",
+        "https://wiki.guildwars2.com/images/1/10/Weak_Potion_of_Destroyer_Slaying.png"
+    ],
+    "9864": [
+        "Minor Potion Of Destroyer Slaying",
+        "https://wiki.guildwars2.com/images/e/ef/Minor_Potion_of_Destroyer_Slaying.png"
+    ],
+    "9866": [
+        "Potion Of Destroyer Slaying",
+        "https://wiki.guildwars2.com/images/4/43/Potion_of_Destroyer_Slaying.png"
+    ],
+    "9867": [
+        "Strong Potion Of Destroyer Slaying",
+        "https://wiki.guildwars2.com/images/d/d5/Strong_Potion_of_Destroyer_Slaying.png"
+    ],
+    "9868": [
+        "Potent Potion Of Destroyer Slaying",
+        "https://wiki.guildwars2.com/images/e/e3/Potent_Potion_of_Destroyer_Slaying.png"
+    ],
+    "9869": [
+        "Powerful Potion Of Destroyer Slaying",
+        "https://wiki.guildwars2.com/images/b/bd/Powerful_Potion_of_Destroyer_Slaying.png"
+    ],
+    "9872": [
+        "Minor Potion Of Ogre Slaying",
+        "https://wiki.guildwars2.com/images/a/ae/Minor_Potion_of_Ogre_Slaying.png"
+    ],
+    "9874": [
+        "Potion Of Ogre Slaying",
+        "https://wiki.guildwars2.com/images/b/b3/Potion_of_Ogre_Slaying.png"
+    ],
+    "9875": [
+        "Strong Potion Of Ogre Slaying",
+        "https://wiki.guildwars2.com/images/2/23/Strong_Potion_of_Ogre_Slaying.png"
+    ],
+    "9876": [
+        "Potent Potion Of Ogre Slaying",
+        "https://wiki.guildwars2.com/images/4/49/Potent_Potion_of_Ogre_Slaying.png"
+    ],
+    "9877": [
+        "Powerful Potion Of Ogre Slaying",
+        "https://wiki.guildwars2.com/images/b/b5/Powerful_Potion_of_Ogre_Slaying.png"
+    ],
+    "9878": [
+        "Weak Potion Of Krait Slaying",
+        "https://wiki.guildwars2.com/images/2/2b/Weak_Potion_of_Krait_Slaying.png"
+    ],
+    "9880": [
+        "Minor Potion Of Krait Slaying",
+        "https://wiki.guildwars2.com/images/1/12/Minor_Potion_of_Krait_Slaying.png"
+    ],
+    "9882": [
+        "Potion Of Krait Slaying",
+        "https://wiki.guildwars2.com/images/a/a7/Potion_of_Krait_Slaying.png"
+    ],
+    "9883": [
+        "Strong Potion Of Krait Slaying",
+        "https://wiki.guildwars2.com/images/3/32/Strong_Potion_of_Krait_Slaying.png"
+    ],
+    "9884": [
+        "Potent Potion Of Krait Slaying",
+        "https://wiki.guildwars2.com/images/1/12/Potent_Potion_of_Krait_Slaying.png"
+    ],
+    "9885": [
+        "Powerful Potion Of Krait Slaying",
+        "https://wiki.guildwars2.com/images/b/b4/Powerful_Potion_of_Krait_Slaying.png"
+    ],
+    "9886": [
+        "Weak Potion Of Elemental Slaying",
+        "https://wiki.guildwars2.com/images/2/29/Weak_Potion_of_Elemental_Slaying.png"
+    ],
+    "9888": [
+        "Minor Potion Of Elemental Slaying",
+        "https://wiki.guildwars2.com/images/2/29/Minor_Potion_of_Elemental_Slaying.png"
+    ],
+    "9890": [
+        "Potion Of Elemental Slaying",
+        "https://wiki.guildwars2.com/images/5/54/Potion_of_Elemental_Slaying.png"
+    ],
+    "9891": [
+        "Strong Potion Of Elemental Slaying",
+        "https://wiki.guildwars2.com/images/f/ff/Strong_Potion_of_Elemental_Slaying.png"
+    ],
+    "9892": [
+        "Potent Potion Of Elemental Slaying",
+        "https://wiki.guildwars2.com/images/8/8c/Potent_Potion_of_Elemental_Slaying.png"
+    ],
+    "9893": [
+        "Powerful Potion Of Elemental Slaying",
+        "https://wiki.guildwars2.com/images/5/5f/Powerful_Potion_of_Elemental_Slaying.png"
+    ],
+    "9894": [
+        "Weak Potion Of Demon Slaying",
+        "https://wiki.guildwars2.com/images/b/ba/Weak_Potion_of_Demon_Slaying.png"
+    ],
+    "9896": [
+        "Minor Potion Of Demon Slaying",
+        "https://wiki.guildwars2.com/images/1/16/Minor_Potion_of_Demon_Slaying.png"
+    ],
+    "9898": [
+        "Potion Of Demon Slaying",
+        "https://wiki.guildwars2.com/images/b/b4/Potion_of_Demon_Slaying.png"
+    ],
+    "9899": [
+        "Strong Potion Of Demon Slaying",
+        "https://wiki.guildwars2.com/images/1/15/Strong_Potion_of_Demon_Slaying.png"
+    ],
+    "9900": [
+        "Potent Potion Of Demon Slaying",
+        "https://wiki.guildwars2.com/images/3/31/Potent_Potion_of_Demon_Slaying.png"
+    ],
+    "9901": [
+        "Powerful Potion Of Demon Slaying",
+        "https://wiki.guildwars2.com/images/e/ee/Powerful_Potion_of_Demon_Slaying.png"
+    ],
+    "9906": [
+        "Potion Of Sons Of Svanir Slaying",
+        "https://wiki.guildwars2.com/images/b/b3/Potion_of_Sons_of_Svanir_Slaying.png"
+    ],
+    "9907": [
+        "Strong Potion Of Sons Of Svanir Slaying",
+        "https://wiki.guildwars2.com/images/8/86/Strong_Potion_of_Sons_of_Svanir_Slaying.png"
+    ],
+    "9908": [
+        "Potent Potion Of Sons Of Svanir Slaying",
+        "https://wiki.guildwars2.com/images/2/25/Potent_Potion_of_Sons_of_Svanir_Slaying.png"
+    ],
+    "9909": [
+        "Powerful Potion Of Sons Of Svanir Slaying",
+        "https://wiki.guildwars2.com/images/3/33/Powerful_Potion_of_Sons_of_Svanir_Slaying.png"
+    ],
+    "9917": [
+        "Powerful Potion Of Inquest Slaying",
+        "https://wiki.guildwars2.com/images/f/fb/Powerful_Potion_of_Inquest_Slaying.png"
+    ],
+    "9918": [
+        "Weak Potion Of Flame Legion Slaying",
+        "https://wiki.guildwars2.com/images/e/e7/Weak_Potion_of_Flame_Legion_Slaying.png"
+    ],
+    "9920": [
+        "Minor Potion Of Flame Legion Slaying",
+        "https://wiki.guildwars2.com/images/7/75/Minor_Potion_of_Flame_Legion_Slaying.png"
+    ],
+    "9922": [
+        "Potion Of Flame Legion Slaying",
+        "https://wiki.guildwars2.com/images/a/a2/Potion_of_Flame_Legion_Slaying.png"
+    ],
+    "9923": [
+        "Strong Potion Of Flame Legion Slaying",
+        "https://wiki.guildwars2.com/images/b/b4/Strong_Potion_of_Flame_Legion_Slaying.png"
+    ],
+    "9924": [
+        "Potent Potion Of Flame Legion Slaying",
+        "https://wiki.guildwars2.com/images/5/56/Potent_Potion_of_Flame_Legion_Slaying.png"
+    ],
+    "9925": [
+        "Powerful Potion Of Flame Legion Slaying",
+        "https://wiki.guildwars2.com/images/e/e2/Powerful_Potion_of_Flame_Legion_Slaying.png"
+    ],
+    "9926": [
+        "Weak Potion Of Outlaw Slaying",
+        "https://wiki.guildwars2.com/images/1/17/Weak_Potion_of_Outlaw_Slaying.png"
+    ],
+    "9928": [
+        "Minor Potion Of Outlaw Slaying",
+        "https://wiki.guildwars2.com/images/7/7d/Minor_Potion_of_Outlaw_Slaying.png"
+    ],
+    "9930": [
+        "Potion Of Outlaw Slaying",
+        "https://wiki.guildwars2.com/images/5/5f/Potion_of_Outlaw_Slaying.png"
+    ],
+    "9931": [
+        "Strong Potion Of Outlaw Slaying",
+        "https://wiki.guildwars2.com/images/f/fa/Strong_Potion_of_Outlaw_Slaying.png"
+    ],
+    "9932": [
+        "Potent Potion Of Outlaw Slaying",
+        "https://wiki.guildwars2.com/images/f/fa/Potent_Potion_of_Outlaw_Slaying.png"
+    ],
+    "9933": [
+        "Powerful Potion Of Outlaw Slaying",
+        "https://wiki.guildwars2.com/images/e/ec/Powerful_Potion_of_Outlaw_Slaying.png"
+    ],
+    "9934": [
+        "Weak Potion Of Nightmare Court Slaying",
+        "https://wiki.guildwars2.com/images/0/00/Weak_Potion_of_Nightmare_Court_Slaying.png"
+    ],
+    "9936": [
+        "Minor Potion Of Nightmare Court Slaying",
+        "https://wiki.guildwars2.com/images/2/29/Minor_Potion_of_Nightmare_Court_Slaying.png"
+    ],
+    "9938": [
+        "Potion Of Nightmare Court Slaying",
+        "https://wiki.guildwars2.com/images/9/98/Potion_of_Nightmare_Court_Slaying.png"
+    ],
+    "9939": [
+        "Strong Potion Of Nightmare Court Slaying",
+        "https://wiki.guildwars2.com/images/1/17/Strong_Potion_of_Nightmare_Court_Slaying.png"
+    ],
+    "9940": [
+        "Potent Potion Of Nightmare Court Slaying",
+        "https://wiki.guildwars2.com/images/f/f1/Potent_Potion_of_Nightmare_Court_Slaying.png"
+    ],
+    "9941": [
+        "Powerful Potion Of Nightmare Court Slaying",
+        "https://wiki.guildwars2.com/images/7/74/Powerful_Potion_of_Nightmare_Court_Slaying.png"
+    ],
+    "9942": [
+        "Weak Potion Of Dredge Slaying",
+        "https://wiki.guildwars2.com/images/9/90/Weak_Potion_of_Dredge_Slaying.png"
+    ],
+    "9944": [
+        "Minor Potion Of Dredge Slaying",
+        "https://wiki.guildwars2.com/images/5/5f/Minor_Potion_of_Dredge_Slaying.png"
+    ],
+    "9946": [
+        "Potion Of Dredge Slaying",
+        "https://wiki.guildwars2.com/images/5/52/Potion_of_Dredge_Slaying.png"
+    ],
+    "9947": [
+        "Strong Potion Of Dredge Slaying",
+        "https://wiki.guildwars2.com/images/b/bd/Strong_Potion_of_Dredge_Slaying.png"
+    ],
+    "9948": [
+        "Potent Potion Of Dredge Slaying",
+        "https://wiki.guildwars2.com/images/e/e6/Potent_Potion_of_Dredge_Slaying.png"
+    ],
+    "9949": [
+        "Powerful Potion Of Dredge Slaying",
+        "https://wiki.guildwars2.com/images/9/9a/Powerful_Potion_of_Dredge_Slaying.png"
+    ],
+    "9950": [
+        "Blueberry Pie And Slice Of Rainbow Cake",
+        "https://wiki.guildwars2.com/images/3/32/Blueberry_Pie.png"
+    ],
+    "9952": [
+        "Strawberry Pie And Cupcake",
+        "https://wiki.guildwars2.com/images/4/43/Strawberry_Pie.png"
+    ],
+    "9954": [
+        "Cherry Pie",
+        "https://wiki.guildwars2.com/images/7/70/Cherry_Pie.png"
+    ],
+    "9955": [
+        "Blackberry Pie",
+        "https://wiki.guildwars2.com/images/4/44/Blackberry_Pie.png"
+    ],
+    "9956": [
+        "Mixed Berry Pie",
+        "https://wiki.guildwars2.com/images/6/68/Mixed_Berry_Pie.png"
+    ],
+    "9958": [
+        "Rough Sharpening Stone",
+        "https://wiki.guildwars2.com/images/1/14/Rough_Sharpening_Stone.png"
+    ],
+    "9959": [
+        "Simple Sharpening Stone",
+        "https://wiki.guildwars2.com/images/e/ef/Simple_Sharpening_Stone.png"
+    ],
+    "9960": [
+        "Standard Sharpening Stone",
+        "https://wiki.guildwars2.com/images/8/82/Standard_Sharpening_Stone.png"
+    ],
+    "9961": [
+        "Quality Sharpening Stone",
+        "https://wiki.guildwars2.com/images/6/68/Quality_Sharpening_Stone.png"
+    ],
+    "9962": [
+        "Hardened Sharpening Stone",
+        "https://wiki.guildwars2.com/images/8/8d/Hardened_Sharpening_Stone.png"
+    ],
+    "9963": [
+        "Superior Sharpening Stone",
+        "https://wiki.guildwars2.com/images/7/78/Superior_Sharpening_Stone.png"
+    ],
+    "9964": [
+        "Standard Tuning Crystal",
+        "https://wiki.guildwars2.com/images/1/1e/Standard_Tuning_Crystal.png"
+    ],
+    "9965": [
+        "Artisan Tuning Crystal",
+        "https://wiki.guildwars2.com/images/e/eb/Artisan_Tuning_Crystal.png"
+    ],
+    "9966": [
+        "Quality Tuning Crystal",
+        "https://wiki.guildwars2.com/images/3/3b/Quality_Tuning_Crystal.png"
+    ],
+    "9967": [
+        "Master Tuning Crystal",
+        "https://wiki.guildwars2.com/images/5/58/Master_Tuning_Crystal.png"
+    ],
+    "9968": [
+        "Master Maintenance Oil",
+        "https://wiki.guildwars2.com/images/5/5b/Master_Maintenance_Oil.png"
+    ],
+    "25879": [
+        "Bountiful Maintenance Oil",
+        "https://wiki.guildwars2.com/images/5/5b/Master_Maintenance_Oil.png"
+    ],
+    "9969": [
+        "Quality Maintenance Oil",
+        "https://wiki.guildwars2.com/images/2/23/Quality_Maintenance_Oil.png"
+    ],
+    "9970": [
+        "Artisan Maintenance Oil",
+        "https://wiki.guildwars2.com/images/7/75/Artisan_Maintenance_Oil.png"
+    ],
+    "9971": [
+        "Standard Maintenance Oil",
+        "https://wiki.guildwars2.com/images/a/a6/Standard_Maintenance_Oil.png"
+    ],
+    "9972": [
+        "Slice Of Cinnamon Toast",
+        "https://wiki.guildwars2.com/images/2/25/Slice_of_Buttered_Toast.png"
+    ],
+    "9974": [
+        "Slice Of Garlic Bread",
+        "https://wiki.guildwars2.com/images/2/2a/Slice_of_Garlic_Bread.png"
+    ],
+    "9976": [
+        "Loaf Of Rosemary Bread",
+        "https://wiki.guildwars2.com/images/1/11/Loaf_of_Rosemary_Bread.png"
+    ],
+    "9977": [
+        "Slice Of Spiced Bread",
+        "https://wiki.guildwars2.com/images/0/08/Slice_of_Spiced_Bread.png"
+    ],
+    "9978": [
+        "Loaf Of Tarragon Bread",
+        "https://wiki.guildwars2.com/images/b/b4/Loaf_of_Tarragon_Bread.png"
+    ],
+    "9979": [
+        "Loaf Of Saffron Bread",
+        "https://wiki.guildwars2.com/images/3/37/Loaf_of_Saffron_Bread.png"
+    ],
+    "9980": [
+        "Caramel",
+        "https://wiki.guildwars2.com/images/0/09/Caramel.png"
+    ],
+    "9982": [
+        "Chocolate Banana",
+        "https://wiki.guildwars2.com/images/0/03/Chocolate_Banana.png"
+    ],
+    "9984": [
+        "Chocolate Cherry",
+        "https://wiki.guildwars2.com/images/3/3d/Chocolate_Cherry.png"
+    ],
+    "9985": [
+        "Chocolate Orange",
+        "https://wiki.guildwars2.com/images/b/b2/Chocolate_Orange.png"
+    ],
+    "9986": [
+        "Chocolate Raspberry Cream",
+        "https://wiki.guildwars2.com/images/c/c5/Chocolate_Raspberry_Cream.png"
+    ],
+    "9987": [
+        "Chocolate Omnomberry Cream",
+        "https://wiki.guildwars2.com/images/8/8a/Chocolate_Omnomberry_Cream.png"
+    ],
+    "9988": [
+        "Apple Pie",
+        "https://wiki.guildwars2.com/images/f/fb/Apple_Pie.png"
+    ],
+    "9989": [
+        "Heart Shaped Cookie",
+        "https://wiki.guildwars2.com/images/2/28/Sapphire_Heart.png"
+    ],
+    "9990": [
+        "Grape Pie",
+        "https://wiki.guildwars2.com/images/3/3e/Grape_Pie.png"
+    ],
+    "9991": [
+        "Pumpkin Pie",
+        "https://wiki.guildwars2.com/images/7/7d/Pumpkin_Pie.png"
+    ],
+    "9992": [
+        "Peach Pie",
+        "https://wiki.guildwars2.com/images/8/86/Peach_Pie.png"
+    ],
+    "9993": [
+        "Mango Pie",
+        "https://wiki.guildwars2.com/images/3/3d/Mango_Pie.png"
+    ],
+    "9994": [
+        "Meat Pie",
+        "https://wiki.guildwars2.com/images/6/68/Meat_Pie.png"
+    ],
+    "9996": [
+        "Lemon Bar",
+        "https://wiki.guildwars2.com/images/5/53/Lemon_Bar.png"
+    ],
+    "9998": [
+        "Cherry Almond Bar",
+        "https://wiki.guildwars2.com/images/8/81/Cherry_Almond_Bar.png"
+    ],
+    "9999": [
+        "Orange Coconut Bar",
+        "https://wiki.guildwars2.com/images/b/b9/Orange_Coconut_Bar.png"
+    ],
+    "10000": [
+        "Raspberry Peach Bar",
+        "https://wiki.guildwars2.com/images/1/18/Raspberry_Peach_Bar.png"
+    ],
+    "10001": [
+        "Omnomberry Bar",
+        "https://wiki.guildwars2.com/images/3/3b/Omnomberry_Bar.png"
+    ],
+    "10002": [
+        "Cheese Pizza",
+        "https://wiki.guildwars2.com/images/6/6c/Cheese_Pizza.png"
+    ],
+    "10004": [
+        "Veggie Pizza",
+        "https://wiki.guildwars2.com/images/8/80/Veggie_Pizza.png"
+    ],
+    "10006": [
+        "Mushroom Pizza",
+        "https://wiki.guildwars2.com/images/e/e9/Mushroom_Pizza.png"
+    ],
+    "10007": [
+        "Fancy Veggie Pizza",
+        "https://wiki.guildwars2.com/images/5/51/Fancy_Veggie_Pizza.png"
+    ],
+    "10008": [
+        "Super Veggie Pizza",
+        "https://wiki.guildwars2.com/images/6/66/Super_Veggie_Pizza.png"
+    ],
+    "10009": [
+        "Rare Veggie Pizza",
+        "https://wiki.guildwars2.com/images/a/a0/Rare_Veggie_Pizza.png"
+    ],
+    "10010": [
+        "Bowl Of Simple Poultry Soup",
+        "https://wiki.guildwars2.com/images/5/5a/Bowl_of_Simple_Poultry_Soup.png"
+    ],
+    "10011": [
+        "Spinach Salad",
+        "https://wiki.guildwars2.com/images/8/85/Spinach_Salad.png"
+    ],
+    "10012": [
+        "Bowl Of Clam Chowder",
+        "https://wiki.guildwars2.com/images/d/df/Bowl_of_Clam_Chowder.png"
+    ],
+    "10014": [
+        "Bowl Of Dilled Clam Chowder",
+        "https://wiki.guildwars2.com/images/e/e8/Bowl_of_Dilled_Clam_Chowder.png"
+    ],
+    "10015": [
+        "Bowl Of Chickpea And Poultry Soup",
+        "https://wiki.guildwars2.com/images/d/db/Bowl_of_Chickpea_and_Poultry_Soup.png"
+    ],
+    "10016": [
+        "Bowl Of Poultry And Leek Soup",
+        "https://wiki.guildwars2.com/images/b/ba/Bowl_of_Poultry_and_Leek_Soup.png"
+    ],
+    "10017": [
+        "Bowl Of Lemongrass Poultry Soup",
+        "https://wiki.guildwars2.com/images/f/f9/Bowl_of_Lemongrass_Poultry_Soup.png"
+    ],
+    "10018": [
+        "Mashed Potato",
+        "https://wiki.guildwars2.com/images/e/eb/Mashed_Potato.png"
+    ],
+    "10020": [
+        "Bowl Of Outrider Stew",
+        "https://wiki.guildwars2.com/images/8/8b/Bowl_of_Front_Line_Stew.png"
+    ],
+    "10022": [
+        "Bowl Of Mashed Yams",
+        "https://wiki.guildwars2.com/images/6/64/Bowl_of_Mashed_Yams.png"
+    ],
+    "10023": [
+        "Roasted Rutabaga",
+        "https://wiki.guildwars2.com/images/5/56/Roasted_Rutabaga.png"
+    ],
+    "10024": [
+        "Roasted Parsnip",
+        "https://wiki.guildwars2.com/images/1/1e/Roasted_Parsnip.png"
+    ],
+    "10025": [
+        "Bowl Of Roasted Lotus Root",
+        "https://wiki.guildwars2.com/images/f/f1/Bowl_of_Roasted_Lotus_Root.png"
+    ],
+    "10026": [
+        "Bowl Of Blueberry Apple Compote",
+        "https://wiki.guildwars2.com/images/3/31/Bowl_of_Blueberry_Apple_Compote.png"
+    ],
+    "10027": [
+        "Bowl Of Strawberry Apple Compote",
+        "https://wiki.guildwars2.com/images/c/cc/Bowl_of_Strawberry_Apple_Compote.png"
+    ],
+    "10028": [
+        "Bowl Of Cherry Vanilla Compote",
+        "https://wiki.guildwars2.com/images/e/eb/Bowl_of_Cherry_Vanilla_Compote.png"
+    ],
+    "10029": [
+        "Bowl Of Blackberry Pear Compote",
+        "https://wiki.guildwars2.com/images/0/0b/Bowl_of_Blackberry_Pear_Compote.png"
+    ],
+    "10030": [
+        "Raspberry Peach Compote",
+        "https://wiki.guildwars2.com/images/6/65/Raspberry_Peach_Compote.png"
+    ],
+    "10031": [
+        "Omnomberry Compote",
+        "https://wiki.guildwars2.com/images/b/ba/Omnomberry_Compote.png"
+    ],
+    "10041": [
+        "Poultry Piccata",
+        "https://wiki.guildwars2.com/images/7/7f/Poultry_Piccata.png"
+    ],
+    "10043": [
+        "Sage Stuffed Poultry",
+        "https://wiki.guildwars2.com/images/4/4e/Sage-Stuffed_Poultry.png"
+    ],
+    "10045": [
+        "Dilled Poultry Piccata",
+        "https://wiki.guildwars2.com/images/0/07/Dilled_Poultry_Piccata.png"
+    ],
+    "10046": [
+        "Place Of Citrus Poultry With Almonds",
+        "https://wiki.guildwars2.com/images/d/dd/Plate_of_Citrus_Poultry_with_Almonds.png"
+    ],
+    "10047": [
+        "Tarragon Stuffed Poultry",
+        "https://wiki.guildwars2.com/images/4/49/Tarragon_Stuffed_Poultry.png"
+    ],
+    "10048": [
+        "Plate Of Lemongrass Poultry",
+        "https://wiki.guildwars2.com/images/a/a5/Plate_of_Lemongrass_Poultry.png"
+    ],
+    "10049": [
+        "Bowl Of Salsa",
+        "https://wiki.guildwars2.com/images/a/af/Bowl_of_Salsa.png"
+    ],
+    "10051": [
+        "Bowl Of Bean Salad",
+        "https://wiki.guildwars2.com/images/6/6d/Bowl_of_Bean_Salad.png"
+    ],
+    "10053": [
+        "Bowl Of Avocado Salsa",
+        "https://wiki.guildwars2.com/images/a/a8/Bowl_of_Avocado_Salsa.png"
+    ],
+    "10054": [
+        "Bowl Of Chickpea Salad",
+        "https://wiki.guildwars2.com/images/e/ec/Bowl_of_Chickpea_Salad.png"
+    ],
+    "10055": [
+        "Bowl Of Mango Salsa",
+        "https://wiki.guildwars2.com/images/0/09/Bowl_of_Mango_Salsa.png"
+    ],
+    "10056": [
+        "Bowl Of Fire Salsa",
+        "https://wiki.guildwars2.com/images/1/12/Bowl_of_Fire_Salsa.png"
+    ],
+    "10057": [
+        "Bowl Of Simple Bean Chili",
+        "https://wiki.guildwars2.com/images/5/5b/Bowl_of_Simple_Bean_Chili.png"
+    ],
+    "10058": [
+        "Bowl Of Fancy Bean Chili",
+        "https://wiki.guildwars2.com/images/4/48/Bowl_of_Fancy_Bean_Chili.png"
+    ],
+    "10059": [
+        "Bowl Of Zucchini Chili",
+        "https://wiki.guildwars2.com/images/d/d8/Bowl_of_Zucchini_Chili.png"
+    ],
+    "10060": [
+        "Bowl Of Spiced Veggie Chili",
+        "https://wiki.guildwars2.com/images/4/4e/Bowl_of_Spiced_Veggie_Chili.png"
+    ],
+    "10061": [
+        "Bowl Of Spicy Veggie Chili",
+        "https://wiki.guildwars2.com/images/4/46/Bowl_of_Spicy_Veggie_Chili.png"
+    ],
+    "10062": [
+        "Bowl Of Fire Veggie Chili",
+        "https://wiki.guildwars2.com/images/6/66/Bowl_of_Fire_Veggie_Chili.png"
+    ],
+    "10065": [
+        "Stuffed Zucchini",
+        "https://wiki.guildwars2.com/images/0/0b/Stuffed_Zucchini.png"
+    ],
+    "10066": [
+        "Bowl Of Hummus",
+        "https://wiki.guildwars2.com/images/5/50/Bowl_of_Hummus.png"
+    ],
+    "10067": [
+        "Roasted Artichoke",
+        "https://wiki.guildwars2.com/images/a/a9/Roasted_Artichoke.png"
+    ],
+    "10068": [
+        "Ghost Pepper Popper",
+        "https://wiki.guildwars2.com/images/e/e1/Ghost_Pepper_Popper.png"
+    ],
+    "10069": [
+        "Chili Pepper Popper",
+        "https://wiki.guildwars2.com/images/f/f2/Chili_Pepper_Popper.png"
+    ],
+    "10071": [
+        "Stuffed Pepper",
+        "https://wiki.guildwars2.com/images/c/ca/Stuffed_Pepper.png"
+    ],
+    "10073": [
+        "Bowl Of Simple Salad",
+        "https://wiki.guildwars2.com/images/9/91/Bowl_of_Kraitweed_Salad.png"
+    ],
+    "10074": [
+        "Explorers Kit",
+        "https://wiki.guildwars2.com/images/9/93/Crude_Salvage_Kit.png"
+    ],
+    "10075": [
+        "Bowl Of Ascalonian Salad",
+        "https://wiki.guildwars2.com/images/c/c7/Bowl_of_Ascalonian_Salad.png"
+    ],
+    "10077": [
+        "Bowl Of Coleslaw",
+        "https://wiki.guildwars2.com/images/0/0e/Bowl_of_Coleslaw.png"
+    ],
+    "10078": [
+        "Bowl Of Cabbage And Chickpea Salad",
+        "https://wiki.guildwars2.com/images/4/4d/Bowl_of_Cabbage_and_Chickpea_Salad.png"
+    ],
+    "10079": [
+        "Bowl Of Asparagus And Sage Salad",
+        "https://wiki.guildwars2.com/images/5/56/Bowl_of_Asparagus_and_Sage_Salad.png"
+    ],
+    "10080": [
+        "Bowl Of Seaweed Salad",
+        "https://wiki.guildwars2.com/images/1/1c/Bowl_of_Seaweed_Salad.png"
+    ],
+    "10081": [
+        "Bowl Of Simple Meat Stew",
+        "https://wiki.guildwars2.com/images/e/e1/Bowl_of_Dolyak_Stew.png"
+    ],
+    "10083": [
+        "Bowl Of Hearty Red Meat Stew",
+        "https://wiki.guildwars2.com/images/5/59/Bowl_of_Hearty_Red_Meat_Stew.png"
+    ],
+    "10085": [
+        "Bowl Of Poultry Noodle Soup",
+        "https://wiki.guildwars2.com/images/8/89/Bowl_of_Poultry_Noodle_Soup.png"
+    ],
+    "10087": [
+        "Bowl Of Savory Spinach And Poultry Soup",
+        "https://wiki.guildwars2.com/images/b/b0/Bowl_of_Savory_Spinach_and_Poultry_Soup.png"
+    ],
+    "10089": [
+        "Bowl Of Kale And Poultry Soup",
+        "https://wiki.guildwars2.com/images/2/2b/Bowl_of_Kale_and_Poultry_Soup.png"
+    ],
+    "10090": [
+        "Bowl Of Hearty Poultry Soup",
+        "https://wiki.guildwars2.com/images/6/64/Bowl_of_Hearty_Poultry_Soup.png"
+    ],
+    "10091": [
+        "Bowl Of Poultry And Winter Vegetable Soup",
+        "https://wiki.guildwars2.com/images/0/05/Bowl_of_Poultry_and_Winter_Vegetable_Soup.png"
+    ],
+    "10092": [
+        "Bowl Of Saffron Scented Poultry Soup",
+        "https://wiki.guildwars2.com/images/7/75/Bowl_of_Saffron-scented_Poultry_Soup.png"
+    ],
+    "10093": [
+        "Bowl Of Meat And Cabbage Stew",
+        "https://wiki.guildwars2.com/images/b/b9/Bowl_of_Meat_and_Cabbage_Stew.png"
+    ],
+    "10094": [
+        "Bowl Of Spiced Meat And Cabbage Stew",
+        "https://wiki.guildwars2.com/images/b/b2/Bowl_of_Spiced_Meat_and_Cabbage_Stew.png"
+    ],
+    "10095": [
+        "Bowl Of Meat And Winter Vegetable Stew",
+        "https://wiki.guildwars2.com/images/1/1b/Bowl_of_Meat_and_Winter_Vegetable_Stew.png"
+    ],
+    "10096": [
+        "Bowl Of Orrian Truffle And Meat Stew",
+        "https://wiki.guildwars2.com/images/b/b8/Bowl_of_Orrian_Truffle_and_Meat_Stew.png"
+    ],
+    "10111": [
+        "Apprentice Maintenance Oil",
+        "https://wiki.guildwars2.com/images/5/51/Apprentice_Maintenance_Oil.png"
+    ],
+    "10112": [
+        "Journeyman Maintenance Oil",
+        "https://wiki.guildwars2.com/images/b/b1/Journeyman_Maintenance_Oil.png"
+    ],
+    "10113": [
+        "Apprentice Tuning Crystal",
+        "https://wiki.guildwars2.com/images/7/7d/Apprentice_Tuning_Crystal.png"
+    ],
+    "10114": [
+        "Journeyman Tuning Crystal",
+        "https://wiki.guildwars2.com/images/1/1e/Journeyman_Tuning_Crystal.png"
+    ],
+    "10117": [
+        "Bowl Of Simple Meat Chili",
+        "https://wiki.guildwars2.com/images/d/da/Bowl_of_Simple_Meat_Chili.png"
+    ],
+    "10118": [
+        "Bowl Of Chili And Avocado",
+        "https://wiki.guildwars2.com/images/b/b5/Bowl_of_Chili_and_Avocado.png"
+    ],
+    "10119": [
+        "Bowl Of Fire Meat Chili",
+        "https://wiki.guildwars2.com/images/b/ba/Bowl_of_Fire_Meat_Chili.png"
+    ],
+    "10120": [
+        "Bowl Of Spicy Meat Chili",
+        "https://wiki.guildwars2.com/images/2/26/Bowl_of_Spicy_Meat_Chili.png"
+    ],
+    "10121": [
+        "Bowl Of Spiced Meat Chili",
+        "https://wiki.guildwars2.com/images/4/4a/Bowl_of_Spiced_Meat_Chili.png"
+    ],
+    "10122": [
+        "White Cake",
+        "https://wiki.guildwars2.com/images/9/9a/White_Cake.png"
+    ],
+    "10123": [
+        "Chocolate Cake",
+        "https://wiki.guildwars2.com/images/8/87/Chocolate_Cake.png"
+    ],
+    "10124": [
+        "Chocolate Cherry Cake",
+        "https://wiki.guildwars2.com/images/4/47/Chocolate_Cherry_Cake.png"
+    ],
+    "10125": [
+        "Orange Coconut Cake",
+        "https://wiki.guildwars2.com/images/3/36/Orange_Coconut_Cake.png"
+    ],
+    "10126": [
+        "Chocolate Raspberry Cake",
+        "https://wiki.guildwars2.com/images/b/b4/Chocolate_Raspberry_Cake.png"
+    ],
+    "10127": [
+        "Chocolate Omnomberry Cake",
+        "https://wiki.guildwars2.com/images/e/e6/Chocolate_Omnomberry_Cake.png"
+    ],
+    "10128": [
+        "Cheeseburger",
+        "https://wiki.guildwars2.com/images/1/11/Cheeseburger.png"
+    ],
+    "10129": [
+        "Spinach Burger",
+        "https://wiki.guildwars2.com/images/9/9f/Spinach_Burger.png"
+    ],
+    "10130": [
+        "Deluxe Burger",
+        "https://wiki.guildwars2.com/images/6/6f/Deluxe_Burger.png"
+    ],
+    "10131": [
+        "Horseradish Burger",
+        "https://wiki.guildwars2.com/images/a/a1/Horseradish_Burger.png"
+    ],
+    "10132": [
+        "Spicy Cheeseburger",
+        "https://wiki.guildwars2.com/images/8/8a/Spicy_Cheeseburger.png"
+    ],
+    "10133": [
+        "Fancy Truffle Burger",
+        "https://wiki.guildwars2.com/images/7/79/Fancy_Truffle_Burger.png"
+    ],
+    "10134": [
+        "Cherry Tart",
+        "https://wiki.guildwars2.com/images/f/f4/Cherry_Tart.png"
+    ],
+    "10135": [
+        "Ginger Pear Tart",
+        "https://wiki.guildwars2.com/images/9/9b/Ginger_Pear_Tart.png"
+    ],
+    "10136": [
+        "Peach Tart",
+        "https://wiki.guildwars2.com/images/0/07/Peach_Tart.png"
+    ],
+    "10137": [
+        "Dragonfly Cupcake",
+        "https://wiki.guildwars2.com/images/7/72/Dragonfly_Cupcake.png"
+    ],
+    "10138": [
+        "Yam Fritter",
+        "https://wiki.guildwars2.com/images/6/66/Yam_Fritter.png"
+    ],
+    "10139": [
+        "Chickpea Fritter",
+        "https://wiki.guildwars2.com/images/2/2b/Chickpea_Fritter.png"
+    ],
+    "10140": [
+        "Eggplant Fritter",
+        "https://wiki.guildwars2.com/images/e/e9/Eggplant_Fritter.png"
+    ],
+    "10141": [
+        "Cup Of Lotus Fries",
+        "https://wiki.guildwars2.com/images/f/f0/Cup_of_Lotus_Fries.png"
+    ],
+    "10492": [
+        "Healthful Rejuvenation",
+        "https://wiki.guildwars2.com/images/1/1c/Healthful_Rejuvenation.png"
+    ],
+    "10493": [
+        "Damage Bonus5",
+        "https://wiki.guildwars2.com/images/6/66/Damage_Bonus_%28five_percent%29.png"
+    ],
+    "10495": [
+        "Speed Bonus15",
+        "https://wiki.guildwars2.com/images/d/d7/Speed_Bonus_%28fifteen_percent%29.png"
+    ],
+    "10496": [
+        "Damage Reduction5",
+        "https://wiki.guildwars2.com/images/8/8b/Damage_Reduction_%28five_percent%29.png"
+    ],
+    "15249": [
+        "Candied Apple",
+        "https://wiki.guildwars2.com/images/3/3a/Candied_Apple.png"
+    ],
+    "15250": [
+        "Bowl Of Candy Corn Custard",
+        "https://wiki.guildwars2.com/images/e/ea/Bowl_of_Candy_Corn_Custard.png"
+    ],
+    "15251": [
+        "Candy Corn Cake",
+        "https://wiki.guildwars2.com/images/3/37/Candy_Corn_Cake.png"
+    ],
+    "15252": [
+        "Strawberry Ghost",
+        "https://wiki.guildwars2.com/images/2/25/Strawberry_Ghost.png"
+    ],
+    "15253": [
+        "Candy Corn Cookie",
+        "https://wiki.guildwars2.com/images/d/db/Candy_Corn_Cookie.png"
+    ],
+    "15254": [
+        "Piece Of Candy Corn Almond Brittle",
+        "https://wiki.guildwars2.com/images/c/c4/Piece_of_Candy_Corn_Almond_Brittle.png"
+    ],
+    "15255": [
+        "Glazed Pear Tart",
+        "https://wiki.guildwars2.com/images/e/e5/Glazed_Pear_Tart.png"
+    ],
+    "15256": [
+        "Glazed Pumpkin Pie",
+        "https://wiki.guildwars2.com/images/f/f9/Glazed_Pumpkin_Pie.png"
+    ],
+    "15257": [
+        "Glazed Chocolate Raspberry Cookie",
+        "https://wiki.guildwars2.com/images/c/ce/Glazed_Chocolate_Raspberry_Cookie.png"
+    ],
+    "15258": [
+        "Glazed Peach Tart",
+        "https://wiki.guildwars2.com/images/4/47/Glazed_Peach_Tart.png"
+    ],
+    "15259": [
+        "Omnomberry Ghost",
+        "https://wiki.guildwars2.com/images/4/40/Omnomberry_Ghost.png"
+    ],
+    "15260": [
+        "Spicy Pumpkin Cookie",
+        "https://wiki.guildwars2.com/images/7/78/Spicy_Pumpkin_Cookie.png"
+    ],
+    "15272": [
+        "Weak Potion Of Halloween Slaying",
+        "https://wiki.guildwars2.com/images/b/b1/Weak_Potion_of_Halloween_Slaying.png"
+    ],
+    "15279": [
+        "Powerful Potion Of Halloween Slaying",
+        "https://wiki.guildwars2.com/images/f/fe/Powerful_Potion_of_Halloween_Slaying.png"
+    ],
+    "15836": [
+        "Cherry Passion Fruit Cake",
+        "https://wiki.guildwars2.com/images/1/1d/Cherry_Passion_Fruit_Cake.png"
+    ],
+    "15837": [
+        "Bowl Of Salad A La Consortium",
+        "https://wiki.guildwars2.com/images/d/d9/Bowl_of_Salad_a_la_Consortium.png"
+    ],
+    "15838": [
+        "Orange Passion Fruit Tart",
+        "https://wiki.guildwars2.com/images/4/4b/Orange_Passion_Fruit_Tart.png"
+    ],
+    "15839": [
+        "Passion Fruit Coconut Cookie",
+        "https://wiki.guildwars2.com/images/4/4c/Passion_Fruit_Coconut_Cookie.png"
+    ],
+    "15840": [
+        "Raspberry Passion Fruit Compote",
+        "https://wiki.guildwars2.com/images/8/80/Raspberry_Passion_Fruit_Compote.png"
+    ],
+    "15841": [
+        "Stuffed Artichoke With Tropical Dressing",
+        "https://wiki.guildwars2.com/images/0/08/Stuffed_Artichoke_with_Tropical_Dressing.png"
+    ],
+    "15842": [
+        "Bowl Of Tropical Fruit Salad",
+        "https://wiki.guildwars2.com/images/b/b5/Bowl_of_Tropical_Fruit_Salad.png"
+    ],
+    "15843": [
+        "Bowl Of Tropical Mousse",
+        "https://wiki.guildwars2.com/images/7/7e/Bowl_of_Tropical_Mousse.png"
+    ],
+    "16501": [
+        "Bowl Of Saffron Mango Ice Cream",
+        "https://wiki.guildwars2.com/images/8/8c/Bowl_of_Saffron-Mango_Ice_Cream.png"
+    ],
+    "16502": [
+        "Bowl Of Peach Raspberry Swirl Ice Cream",
+        "https://wiki.guildwars2.com/images/9/92/Bowl_of_Peach_Raspberry_Swirl_Ice_Cream.png"
+    ],
+    "16503": [
+        "Bowl Of Mint Chocolate Chip Ice Cream",
+        "https://wiki.guildwars2.com/images/e/e3/Bowl_of_Mint_Chocolate_Chip_Ice_Cream.png"
+    ],
+    "16504": [
+        "Bowl Of Ginger Lime Ice Cream",
+        "https://wiki.guildwars2.com/images/9/97/Bowl_of_Ginger-Lime_Ice_Cream.png"
+    ],
+    "16505": [
+        "Bowl Of Blueberry Chocolate Chunk Ice Cream",
+        "https://wiki.guildwars2.com/images/0/04/Bowl_of_Blueberry_Chocolate_Chunk_Ice_Cream.png"
+    ],
+    "16506": [
+        "Bowl Of Chocolate Chip Ice Cream",
+        "https://wiki.guildwars2.com/images/6/66/Bowl_of_Chocolate_Chip_Ice_Cream.png"
+    ],
+    "16523": [
+        "Bowl Of Candy Corn Ice Cream",
+        "https://wiki.guildwars2.com/images/0/0f/Bowl_of_Candy_Corn_Ice_Cream.png"
+    ],
+    "17823": [
+        "Plate Of Spicy Herbed Chicken",
+        "https://wiki.guildwars2.com/images/c/c1/Plate_of_Spicy_Herbed_Chicken.png"
+    ],
+    "17822": [
+        "Mushroom Loaf",
+        "https://wiki.guildwars2.com/images/d/d1/Mushroom_Loaf.png"
+    ],
+    "17824": [
+        "Spicy Marinated Mushroom",
+        "https://wiki.guildwars2.com/images/6/6d/Spicy_Marinated_Mushroom.png"
+    ],
+    "17825": [
+        "Bowl Of Sweet And Spicy Butternut Squash Soup",
+        "https://wiki.guildwars2.com/images/d/df/Bowl_of_Sweet_and_Spicy_Butternut_Squash_Soup.png"
+    ],
+    "17826": [
+        "Bowl Of Refugees Beet Soup",
+        "https://wiki.guildwars2.com/images/1/18/Bowl_of_Refugee%27s_Beet_Soup.png"
+    ],
+    "17827": [
+        "Bowl Of Zesty Turnip Soup",
+        "https://wiki.guildwars2.com/images/5/55/Bowl_of_Zesty_Turnip_Soup.png"
+    ],
+    "19451": [
+        "Dragons Revelry Starcake",
+        "https://wiki.guildwars2.com/images/2/2b/Dragon%27s_Revelry_Starcake.png"
+    ],
+    "20857": [
+        "Rabbit Rank Finisher",
+        "https://wiki.guildwars2.com/images/d/d5/Rabbit_Rank_Finisher.png"
+    ],
+    "20858": [
+        "Deer Rank Finisher",
+        "https://wiki.guildwars2.com/images/5/58/Deer_Rank_Finisher.png"
+    ],
+    "20859": [
+        "Dolyak Rank Finisher",
+        "https://wiki.guildwars2.com/images/b/bd/Dolyak_Rank_Finisher.png"
+    ],
+    "20860": [
+        "Wolf Rank Finisher",
+        "https://wiki.guildwars2.com/images/b/b4/Wolf_Rank_Finisher.png"
+    ],
+    "20861": [
+        "Bear Rank Finisher",
+        "https://wiki.guildwars2.com/images/0/08/Bear_Rank_Finisher.png"
+    ],
+    "20862": [
+        "Tiger Rank Finisher",
+        "https://wiki.guildwars2.com/images/9/9b/Tiger_Rank_Finisher.png"
+    ],
+    "20863": [
+        "Shark Rank Finisher",
+        "https://wiki.guildwars2.com/images/1/18/Shark_Rank_Finisher.png"
+    ],
+    "20864": [
+        "Phoenix Rank Finisher",
+        "https://wiki.guildwars2.com/images/c/cf/Phoenix_Rank_Finisher.png"
+    ],
+    "20865": [
+        "Dragon Rank Finisher",
+        "https://wiki.guildwars2.com/images/d/d0/Dragon_Rank_Finisher.png"
+    ],
+    "20866": [
+        "Cow Finisher",
+        "https://wiki.guildwars2.com/images/c/cc/Cow_Finisher.png"
+    ],
+    "20867": [
+        "Whump The Giant Finisher",
+        "https://wiki.guildwars2.com/images/a/ab/Whump_the_Giant_Finisher.png"
+    ],
+    "20868": [
+        "Spectre Finisher",
+        "https://wiki.guildwars2.com/images/e/e9/Spectre_Finisher.png"
+    ],
+    "20869": [
+        "Thornroot Finisher",
+        "https://wiki.guildwars2.com/images/8/85/Thornroot_Finisher.png"
+    ],
+    "20870": [
+        "Sanctified Finisher",
+        "https://wiki.guildwars2.com/images/4/4f/Sanctified_Finisher.png"
+    ],
+    "20871": [
+        "Martial Finisher",
+        "https://wiki.guildwars2.com/images/2/28/Martial_Finisher.png"
+    ],
+    "20872": [
+        "Grave Finisher",
+        "https://wiki.guildwars2.com/images/7/7d/Grave_Finisher.png"
+    ],
+    "20873": [
+        "Super Explosive Finisher",
+        "https://wiki.guildwars2.com/images/8/8c/Super_Explosive_Finisher.png"
+    ],
+    "20874": [
+        "Mad King Finisher",
+        "https://wiki.guildwars2.com/images/e/e6/Mad_King_Finisher.png"
+    ],
+    "20875": [
+        "Scarecrow Finisher",
+        "https://wiki.guildwars2.com/images/3/39/Scarecrow_Finisher.png"
+    ],
+    "20876": [
+        "Gift Finisher",
+        "https://wiki.guildwars2.com/images/2/26/Gift_Finisher.png"
+    ],
+    "20974": [
+        "Twisted Watchwork Finisher",
+        "https://wiki.guildwars2.com/images/0/02/Twisted_Watchwork_Finisher.png"
+    ],
+    "21460": [
+        "Vigil Megalaser Finisher",
+        "https://wiki.guildwars2.com/images/c/c4/Vigil_Megalaser_Finisher.png"
+    ],
+    "21487": [
+        "Metabolic Primer",
+        "https://wiki.guildwars2.com/images/a/af/Metabolic_Primer_%28effect%29.png"
+    ],
+    "21826": [
+        "Toxic Sharpening Stone",
+        "https://wiki.guildwars2.com/images/d/db/Toxic_Sharpening_Stone.png"
+    ],
+    "21827": [
+        "Toxic Maintenance Oil",
+        "https://wiki.guildwars2.com/images/a/a6/Toxic_Maintenance_Oil.png"
+    ],
+    "21828": [
+        "Toxic Tuning Crystal",
+        "https://wiki.guildwars2.com/images/8/8d/Toxic_Tuning_Crystal.png"
+    ],
+    "21829": [
+        "Bowl Of Marjorys Experimental Chili",
+        "https://wiki.guildwars2.com/images/6/66/Bowl_of_Marjory%27s_Experimental_Chili.png"
+    ],
+    "22015": [
+        "Toxic Offshoot Finisher",
+        "https://wiki.guildwars2.com/images/0/0b/Toxic_Offshoot_Finisher.png"
+    ],
+    "22097": [
+        "Ascalonian Leader Finisher",
+        "https://wiki.guildwars2.com/images/f/fc/Permanent_Ascalonian-Leader_Finisher.png"
+    ],
+    "22098": [
+        "Cute Quaggan Finisher",
+        "https://wiki.guildwars2.com/images/8/83/Cute-Quaggan_Finisher.png"
+    ],
+    "22099": [
+        "Skritt Scavenger Finisher",
+        "https://wiki.guildwars2.com/images/a/a8/Skritt-Scavenger_Finisher.png"
+    ],
+    "22144": [
+        "Superior Sigil Of Momentum",
+        "https://wiki.guildwars2.com/images/3/30/Superior_Sigil_of_Momentum.png"
+    ],
+    "22489": [
+        "Wv W Golden Dolyak Finisher",
+        "https://wiki.guildwars2.com/images/2/2e/WvW_Golden_Dolyak_Finisher.png"
+    ],
+    "22490": [
+        "Wv W Silver Dolyak Finisher",
+        "https://wiki.guildwars2.com/images/d/d3/WvW_Silver_Dolyak_Finisher.png"
+    ],
+    "22555": [
+        "Snow Globe Finisher",
+        "https://wiki.guildwars2.com/images/4/47/Snow_Globe_Finisher.png"
+    ],
+    "22890": [
+        "Great Jungle Wurm Finisher",
+        "https://wiki.guildwars2.com/images/0/01/Great_Jungle_Wurm_Finisher.png"
+    ],
+    "23239": [
+        "Swift Moa Feather",
+        "https://wiki.guildwars2.com/images/f/f0/Swift_Moa_Feather.png"
+    ],
+    "23978": [
+        "Guild Shield Finisher",
+        "https://wiki.guildwars2.com/images/a/a1/Guild_Shield_Finisher.png"
+    ],
+    "23996": [
+        "Hidden Minstrel Finisher",
+        "https://wiki.guildwars2.com/images/a/a3/Hidden_Minstrel_Finisher.png"
+    ],
+    "23997": [
+        "Golem Pummeler Finisher",
+        "https://wiki.guildwars2.com/images/e/e3/Golem_Pummeler_Finisher.png"
+    ],
+    "24290": [
+        "Mystical Dragon Finisher",
+        "https://wiki.guildwars2.com/images/6/6d/Mystical_Dragon_Finisher.png"
+    ],
+    "24291": [
+        "Llama Finisher",
+        "https://wiki.guildwars2.com/images/3/3a/Llama_Finisher.png"
+    ],
+    "24600": [
+        "Wizard Lightning Finisher",
+        "https://wiki.guildwars2.com/images/d/d1/Wizard_Lightning_Finisher.png"
+    ],
+    "24792": [
+        "Bowl Of Prickly Pear Sorber",
+        "https://wiki.guildwars2.com/images/f/f0/Bowl_of_Prickly_Pear_Sorbet.png"
+    ],
+    "24793": [
+        "Plate Of Roasted Cactus",
+        "https://wiki.guildwars2.com/images/d/d6/Plate_of_Roasted_Cactus.png"
+    ],
+    "24797": [
+        "Loaf Of Candy Cactus Cornbread",
+        "https://wiki.guildwars2.com/images/b/b2/Loaf_of_Candy_Cactus_Cornbread.png"
+    ],
+    "24800": [
+        "Prickly Pear Pie",
+        "https://wiki.guildwars2.com/images/0/0a/Prickly_Pear_Pie.png"
+    ],
+    "24804": [
+        "Bowl Of Sweet And Spicy Beans",
+        "https://wiki.guildwars2.com/images/f/f7/Bowl_of_Sweet_and_Spicy_Beans.png"
+    ],
+    "24807": [
+        "Bowl Of Cactus Soup",
+        "https://wiki.guildwars2.com/images/1/1e/Bowl_of_Cactus_Soup.png"
+    ],
+    "25173": [
+        "Ley Line Finisher",
+        "https://wiki.guildwars2.com/images/7/73/Ley_Line_Finisher.png"
+    ],
+    "25179": [
+        "Utility Primer",
+        "https://wiki.guildwars2.com/images/a/a8/Utility_Primer_%28effect%29.png"
+    ],
+    "25318": [
+        "Feast Of Delectable Birthday Cake",
+        "https://wiki.guildwars2.com/images/9/93/Feast_of_Delectable_Birthday_Cake.png"
+    ],
+    "25435": [
+        "Guild Flag Finisher",
+        "https://wiki.guildwars2.com/images/e/e6/Guild_Flag_Finisher.png"
+    ],
+    "25436": [
+        "Avatar Of Death Finisher",
+        "https://wiki.guildwars2.com/images/3/31/Avatar_of_Death_Finisher.png"
+    ],
+    "25526": [
+        "Superior Sigil Of Cruelty",
+        "https://wiki.guildwars2.com/images/2/26/Superior_Sigil_of_Cruelty.png"
+    ],
+    "25630": [
+        "Sharpening Skull",
+        "https://wiki.guildwars2.com/images/e/ee/Sharpening_Skull.png"
+    ],
+    "25631": [
+        "Lump Of Crystallized Nougat",
+        "https://wiki.guildwars2.com/images/8/8f/Lump_of_Crystallized_Nougat.png"
+    ],
+    "25632": [
+        "Flask Of Pumpkin Oil",
+        "https://wiki.guildwars2.com/images/7/71/Flask_of_Pumpkin_Oil.png"
+    ],
+    "25634": [
+        "Ghouls Grasp",
+        "https://wiki.guildwars2.com/images/1/12/Ghoul%27s_Grasp.png"
+    ],
+    "25636": [
+        "Feline Fury",
+        "https://wiki.guildwars2.com/images/3/32/Feline_Fury.png"
+    ],
+    "25639": [
+        "Pumpkin Prowess",
+        "https://wiki.guildwars2.com/images/d/d3/Pumpkin_Prowess.png"
+    ],
+    "26078": [
+        "Chickenado Finisher",
+        "https://wiki.guildwars2.com/images/3/3f/Chickenado_Finisher.png"
+    ],
+    "26079": [
+        "Chinese World Tournament Finisher",
+        "https://wiki.guildwars2.com/images/b/b5/Chinese_World_Tournament_Finisher.png"
+    ],
+    "26080": [
+        "North American World Tournament Finisher",
+        "https://wiki.guildwars2.com/images/d/db/European_World_Tournament_Finisher.png"
+    ],
+    "26081": [
+        "European World Tournament Finisher",
+        "https://wiki.guildwars2.com/images/e/ed/North_American_World_Tournament_Finisher.png"
+    ],
+    "26445": [
+        "Bloodstone Pot Pie",
+        "https://wiki.guildwars2.com/images/6/68/Meat_Pie.png"
+    ],
+    "26529": [
+        "Delicious Rice Ball",
+        "https://wiki.guildwars2.com/images/5/5d/Delicious_Rice_Ball.png"
+    ],
+    "26530": [
+        "Fried Golden Dumpling",
+        "https://wiki.guildwars2.com/images/1/14/Fried_Golden_Dumpling.png"
+    ],
+    "26532": [
+        "Sweet Bean Bun",
+        "https://wiki.guildwars2.com/images/b/b0/Sweet_Bean_Bun.png"
+    ],
+    "26534": [
+        "Spring Roll",
+        "https://wiki.guildwars2.com/images/d/da/Spring_Roll.png"
+    ],
+    "26536": [
+        "Steamed Red Dumpling",
+        "https://wiki.guildwars2.com/images/8/8c/Steamed_Red_Dumpling.png"
+    ],
+    "26519": [
+        "Pact Fleet Finisher",
+        "https://wiki.guildwars2.com/images/6/60/Pact_Fleet_Finisher.png"
+    ],
+    "28873": [
+        "Rainbow Unicorn Finisher",
+        "https://wiki.guildwars2.com/images/6/69/Rainbow_Unicorn_Finisher.png"
+    ],
+    "29044": [
+        "Honor Guard Finisher",
+        "https://wiki.guildwars2.com/images/f/fb/Honor_Guard_Finisher.png"
+    ],
+    "29409": [
+        "Revenant Finisher",
+        "https://wiki.guildwars2.com/images/1/1c/Revenant_Finisher.png"
+    ],
+    "31079": [
+        "Birthday Finisher",
+        "https://wiki.guildwars2.com/images/9/95/Birthday_Finisher.png"
+    ],
+    "31959": [
+        "Writ Of Learned Malice",
+        "https://wiki.guildwars2.com/images/9/9b/Writ_of_Learned_Malice.png"
+    ],
+    "31970": [
+        "Writ Of Masterful Accuracy",
+        "https://wiki.guildwars2.com/images/5/5a/Writ_of_Masterful_Accuracy.png"
+    ],
+    "32044": [
+        "Writ Of Learned Strength",
+        "https://wiki.guildwars2.com/images/8/8d/Writ_of_Calculated_Strength.png"
+    ],
+    "32105": [
+        "Writ Of Strength",
+        "https://wiki.guildwars2.com/images/5/5e/Writ_of_Strength.png"
+    ],
+    "32108": [
+        "Mordrem Tiger Finisher",
+        "https://wiki.guildwars2.com/images/d/d2/Mordrem_Tiger_Finisher.png"
+    ],
+    "32134": [
+        "Fractal Defensive",
+        "https://wiki.guildwars2.com/images/thumb/e/e6/Mist_Defensive_Potion.png/40px-Mist_Defensive_Potion.png"
+    ],
+    "32316": [
+        "Writ Of Calculated Malice",
+        "https://wiki.guildwars2.com/images/7/75/Writ_of_Calculated_Malice.png"
+    ],
+    "32374": [
+        "Writ Of Learned Accuracy",
+        "https://wiki.guildwars2.com/images/5/5a/Writ_of_Masterful_Accuracy.png"
+    ],
+    "32401": [
+        "Writ Of Calculated Strength",
+        "https://wiki.guildwars2.com/images/8/8d/Writ_of_Calculated_Strength.png"
+    ],
+    "32429": [
+        "Writ Of Studied Accuracy",
+        "https://wiki.guildwars2.com/images/a/ad/Writ_of_Studied_Accuracy.png"
+    ],
+    "32433": [
+        "Mordrem Wolf Finisher",
+        "https://wiki.guildwars2.com/images/1/13/Mordrem_Wolf_Finisher.png"
+    ],
+    "32473": [
+        "Fractal Offensive",
+        "https://wiki.guildwars2.com/images/thumb/8/8d/Mist_Offensive_Potion.png/40px-Mist_Offensive_Potion.png"
+    ],
+    "32501": [
+        "Slice Of Allspice Cake With Ice Cream",
+        "https://wiki.guildwars2.com/images/a/a8/Slice_of_Allspice_Cake_with_Ice_Cream.png"
+    ],
+    "32552": [
+        "Bowl Of Passion Fruit Tapioca Pudding",
+        "https://wiki.guildwars2.com/images/3/3b/Bowl_of_Passion_Fruit_Tapioca_Pudding.png"
+    ],
+    "32584": [
+        "Mordrem Rabbit Finisher",
+        "https://wiki.guildwars2.com/images/e/e7/Mordrem_Rabbit_Finisher.png"
+    ],
+    "32624": [
+        "Mordrem Dragon Finisher",
+        "https://wiki.guildwars2.com/images/5/50/Mordrem_Dragon_Finisher.png"
+    ],
+    "32662": [
+        "Plate Of Jerk Poultry",
+        "https://wiki.guildwars2.com/images/a/af/Plate_of_Jerk_Poultry.png"
+    ],
+    "32805": [
+        "Writ Of Accuracy",
+        "https://wiki.guildwars2.com/images/2/29/Writ_of_Accuracy.png"
+    ],
+    "32813": [
+        "Mordrem Deer Finisher",
+        "https://wiki.guildwars2.com/images/c/c1/Mordrem_Deer_Finisher.png"
+    ],
+    "32869": [
+        "Mordrem Phoenix Finisher",
+        "https://wiki.guildwars2.com/images/c/cf/Mordrem_Phoenix_Finisher.png"
+    ],
+    "32927": [
+        "Writ Of Studied Malice",
+        "https://wiki.guildwars2.com/images/b/bd/Writ_of_Studied_Malice.png"
+    ],
+    "32999": [
+        "Mordrem Dolyak Finisher",
+        "https://wiki.guildwars2.com/images/7/7a/Mordrem_Dolyak_Finisher.png"
+    ],
+    "33005": [
+        "Writ Of Studied Speed",
+        "https://wiki.guildwars2.com/images/d/d1/Recipe_sheet_fine_boots.png"
+    ],
+    "33024": [
+        "Fractal Mobility",
+        "https://wiki.guildwars2.com/images/thumb/2/22/Mist_Mobility_Potion.png/40px-Mist_Mobility_Potion.png"
+    ],
+    "33040": [
+        "Writ Of Masterful Speed",
+        "https://wiki.guildwars2.com/images/8/8e/Recipe_sheet_masterwork_boots.png"
+    ],
+    "33053": [
+        "Mordrem Shark Finisher",
+        "https://wiki.guildwars2.com/images/d/d0/Mordrem_Shark_Finisher.png"
+    ],
+    "33084": [
+        "Flatbread",
+        "https://wiki.guildwars2.com/images/4/4f/Flatbread.png"
+    ],
+    "33148": [
+        "Bowl Of Mussel Soup",
+        "https://wiki.guildwars2.com/images/4/4c/Bowl_of_Mussel_Soup.png"
+    ],
+    "33160": [
+        "Writ Of Basic Strength",
+        "https://wiki.guildwars2.com/images/7/7e/Writ_of_Basic_Strength.png"
+    ],
+    "33223": [
+        "Bowl Of Chocolate Tapioca Pudding",
+        "https://wiki.guildwars2.com/images/5/5f/Bowl_of_Chocolate_Tapioca_Pudding.png"
+    ],
+    "33297": [
+        "Writ Of Masterful Strength",
+        "https://wiki.guildwars2.com/images/2/2b/Writ_of_Masterful_Strength.png"
+    ],
+    "33310": [
+        "Writ Of Basic Malice",
+        "https://wiki.guildwars2.com/images/9/9e/Writ_of_Basic_Malice.png"
+    ],
+    "33337": [
+        "Bowl Of Curry Mussel Soup",
+        "https://wiki.guildwars2.com/images/c/ca/Bowl_of_Curry_Mussel_Soup.png"
+    ],
+    "33392": [
+        "Jerk Poultry Flatbread Sandwich",
+        "https://wiki.guildwars2.com/images/4/4b/Jerk_Poultry_Flatbread_Sandwich.png"
+    ],
+    "33476": [
+        "Plate Of Mussels Gnashblade",
+        "https://wiki.guildwars2.com/images/7/7b/Plate_of_Mussels_Gnashblade.png"
+    ],
+    "33572": [
+        "Writ Of Basic Accuracy",
+        "https://wiki.guildwars2.com/images/8/82/Writ_of_Basic_Accuracy.png"
+    ],
+    "33574": [
+        "Bowl Of Lemongrass Mussel Pasta",
+        "https://wiki.guildwars2.com/images/4/47/Bowl_of_Lemongrass_Mussel_Pasta.png"
+    ],
+    "33617": [
+        "Bowl Of Sawgill Mushroom Risotto",
+        "https://wiki.guildwars2.com/images/6/6a/Bowl_of_Mushroom_Risotto.png"
+    ],
+    "33647": [
+        "Writ Of Studied Strength",
+        "https://wiki.guildwars2.com/images/2/23/Writ_of_Studied_Strength.png"
+    ],
+    "33719": [
+        "Superior Sigil Of Concentration",
+        "https://wiki.guildwars2.com/images/b/b3/Superior_Sigil_of_Concentration.png"
+    ],
+    "33776": [
+        "Writ Of Basic Speed",
+        "https://wiki.guildwars2.com/images/e/e6/Writ_of_Basic_Speed.png"
+    ],
+    "33789": [
+        "Mordrem Bear Finisher",
+        "https://wiki.guildwars2.com/images/2/21/Mordrem_Bear_Finisher.png"
+    ],
+    "33792": [
+        "Slice Of Allspice Cake",
+        "https://wiki.guildwars2.com/images/1/13/Slice_of_Allspice_Cake.png"
+    ],
+    "33798": [
+        "Writ Of Calculated Accuracy",
+        "https://wiki.guildwars2.com/images/2/27/Writ_of_Calculated_Accuracy.png"
+    ],
+    "33803": [
+        "Writ Of Malice",
+        "https://wiki.guildwars2.com/images/c/c4/Writ_of_Malice.png"
+    ],
+    "33836": [
+        "Writ Of Masterful Malice",
+        "https://wiki.guildwars2.com/images/2/20/Writ_of_Masterful_Malice.png"
+    ],
+    "33856": [
+        "Jerk Poultry And Nopall Flatbread Sandwich",
+        "https://wiki.guildwars2.com/images/3/3c/Jerk_Poultry_and_Nopal_Flatbread_Sandwich.png"
+    ],
+    "33909": [
+        "Cheesy Cassava Roll",
+        "https://wiki.guildwars2.com/images/1/13/Cheesy_Cassava_Roll.png"
+    ],
+    "33936": [
+        "Piece Of Undersea Wurm Sushi",
+        "https://wiki.guildwars2.com/images/b/bd/Piece_of_Undersea_Wurm_Sushi.png"
+    ],
+    "34014": [
+        "Bowl Of Tapioca Pudding",
+        "https://wiki.guildwars2.com/images/e/e7/Bowl_of_Tapioca_Pudding.png"
+    ],
+    "34069": [
+        "Bowl Of Prickly Pear Tapioca Pudding",
+        "https://wiki.guildwars2.com/images/6/69/Bowl_of_Prickly_Pear_Tapioca_Pudding.png"
+    ],
+    "34187": [
+        "Peppermint Oil",
+        "https://wiki.guildwars2.com/images/b/bc/Peppermint_Oil.png"
+    ],
+    "34188": [
+        "Peppermint Omnomberry Bar",
+        "https://wiki.guildwars2.com/images/2/25/Peppermint_Omnomberry_Bar.png"
+    ],
+    "34206": [
+        "Tuning Icicle",
+        "https://wiki.guildwars2.com/images/7/75/Tuning_Icicle.png"
+    ],
+    "34207": [
+        "Scoop Of Mintberry Swirl Ice Cream",
+        "https://wiki.guildwars2.com/images/1/13/Scoop_of_Mintberry_Swirl_Ice_Cream.png"
+    ],
+    "34211": [
+        "Tin Of Fruitcake",
+        "https://wiki.guildwars2.com/images/a/af/Tin_of_Fruitcake.png"
+    ],
+    "34212": [
+        "Tropical Peppermint Cake",
+        "https://wiki.guildwars2.com/images/f/f5/Tropical_Peppermint_Cake.png"
+    ],
+    "34570": [
+        "Bloodstone Bisque",
+        "https://wiki.guildwars2.com/images/1/14/Bowl_of_Bloodstone_Bisque.png"
+    ],
+    "34604": [
+        "Can Of Mushroom And Asparagus Risotto",
+        "https://wiki.guildwars2.com/images/9/98/Can_of_Mushroom_and_Asparagus_Risotto.png"
+    ],
+    "34608": [
+        "Canned Tarragon Bread",
+        "https://wiki.guildwars2.com/images/a/ab/Canned_Tarragon_Bread.png"
+    ],
+    "34612": [
+        "Canned Mixed Berry Pie",
+        "https://wiki.guildwars2.com/images/5/55/Canned_Mixed_Berry_Pie.png"
+    ],
+    "34613": [
+        "Canned Raspberry Peach Compote",
+        "https://wiki.guildwars2.com/images/d/d6/Canned_Raspberry_Peach_Compote.png"
+    ],
+    "34617": [
+        "Canned Eggplant Fritter",
+        "https://wiki.guildwars2.com/images/b/b5/Canned_Eggplant_Fritter.png"
+    ],
+    "34619": [
+        "Canned Peach Tart",
+        "https://wiki.guildwars2.com/images/1/18/Canned_Peach_Tart.png"
+    ],
+    "34626": [
+        "Canned Peach Pie Filling",
+        "https://wiki.guildwars2.com/images/d/dc/Canned_Peach_Pie_Filling.png"
+    ],
+    "34634": [
+        "Can Of Butternut Squash Soup",
+        "https://wiki.guildwars2.com/images/a/ad/Can_of_Butternut_Squash_Soup.png"
+    ],
+    "34636": [
+        "Boxed Chocolate Raspberry Cookie",
+        "https://wiki.guildwars2.com/images/4/40/Boxed_Chocolate_Raspberry_Cookie.png"
+    ],
+    "34655": [
+        "Can Of Steak And Asparagus",
+        "https://wiki.guildwars2.com/images/8/8c/Can_of_Steak_and_Asparagus.png"
+    ],
+    "34657": [
+        "Compact Hardened Sharpening Stone",
+        "https://wiki.guildwars2.com/images/1/1f/Compact_Hardened_Sharpening_Stone.png"
+    ],
+    "34671": [
+        "Compact Quality Maintenance Oil",
+        "https://wiki.guildwars2.com/images/d/d8/Compact_Quality_Maintenance_Oil.png"
+    ],
+    "34675": [
+        "Can Of Eggplant Saute",
+        "https://wiki.guildwars2.com/images/3/39/Can_of_Eggplant_Saute.png"
+    ],
+    "34677": [
+        "Compact Quality Tuning Crystal",
+        "https://wiki.guildwars2.com/images/b/ba/Compact_Quality_Tuning_Crystal.png"
+    ],
+    "34679": [
+        "Can Of Eggplant Stirfry",
+        "https://wiki.guildwars2.com/images/2/20/Can_of_Eggplant_Stir-Fry.png"
+    ],
+    "34682": [
+        "Can Of Snow Truffle Soup",
+        "https://wiki.guildwars2.com/images/c/cf/Can_of_Snow_Truffle_Soup.png"
+    ],
+    "34684": [
+        "Boxed Peach Cookie",
+        "https://wiki.guildwars2.com/images/8/81/Boxed_Peach_Cookie.png"
+    ],
+    "34686": [
+        "Can Of Meat And Winter Vegetable Stew",
+        "https://wiki.guildwars2.com/images/e/e8/Can_of_Meat_and_Winter_Vegetable_Stew.png"
+    ],
+    "34688": [
+        "Can Of Roasted Meat With Braised Leeks",
+        "https://wiki.guildwars2.com/images/d/dc/Can_of_Roasted_Meat_with_Braised_Leeks.png"
+    ],
+    "34689": [
+        "Can Of Spicy Veggie Chili",
+        "https://wiki.guildwars2.com/images/e/e2/Can_of_Spicy_Veggie_Chili.png"
+    ],
+    "34690": [
+        "Boxed Raspberry Peach Bar",
+        "https://wiki.guildwars2.com/images/8/8a/Boxed_Raspberry_Peach_Bar.png"
+    ],
+    "34713": [
+        "Canned Raspberry Passion Fruit Compote",
+        "https://wiki.guildwars2.com/images/8/8b/Canned_Raspberry_Passion_Fruit_Compote.png"
+    ],
+    "34717": [
+        "Can Of Potato And Leek Soup",
+        "https://wiki.guildwars2.com/images/d/d0/Can_of_Potato_and_Leek_Soup.png"
+    ],
+    "34728": [
+        "Boxed Chocolate Raspberry Cream",
+        "https://wiki.guildwars2.com/images/8/87/Boxed_Chocolate_Raspberry_Cream.png"
+    ],
+    "34731": [
+        "Canned Stuffed Artichoke With Tropical Dressing",
+        "https://wiki.guildwars2.com/images/4/4f/Canned_Stuffed_Artichoke_with_Tropical_Dressing.png"
+    ],
+    "34733": [
+        "Canned Spicy Stuffed Mushroom",
+        "https://wiki.guildwars2.com/images/b/b9/Canned_Spicy_Stuffed_Mushroom.png"
+    ],
+    "34738": [
+        "Can Of Poultry And Leek Soup",
+        "https://wiki.guildwars2.com/images/0/0d/Can_of_Poultry_and_Leek_Soup.png"
+    ],
+    "34739": [
+        "Can Of Steak And Asparagus Dinner",
+        "https://wiki.guildwars2.com/images/7/70/Can_of_Steak_and_Asparagus_Dinner.png"
+    ],
+    "34741": [
+        "Can Of Mango Salsa",
+        "https://wiki.guildwars2.com/images/b/b0/Can_of_Mango_Salsa.png"
+    ],
+    "34742": [
+        "Can Of Raspberry Peach Bread",
+        "https://wiki.guildwars2.com/images/c/c4/Can_of_Raspberry_Peach_Bread.png"
+    ],
+    "34744": [
+        "Can Of Spicy Meat Chili",
+        "https://wiki.guildwars2.com/images/8/80/Can_of_Spicy_Meat_Chili.png"
+    ],
+    "34751": [
+        "Canned Roasted Artichoke",
+        "https://wiki.guildwars2.com/images/5/52/Canned_Roasted_Artichoke.png"
+    ],
+    "34752": [
+        "Canned Spicier Flank Steak",
+        "https://wiki.guildwars2.com/images/e/e9/Canned_Spicier_Flank_Steak.png"
+    ],
+    "34754": [
+        "Can Of Hearty Poultry Soup",
+        "https://wiki.guildwars2.com/images/d/d4/Can_of_Hearty_Poultry_Soup.png"
+    ],
+    "34762": [
+        "Can Of Artichoke Soup",
+        "https://wiki.guildwars2.com/images/4/49/Can_of_Artichoke_Soup.png"
+    ],
+    "34769": [
+        "Can Of Poultry Tarragon Pasta",
+        "https://wiki.guildwars2.com/images/b/b8/Can_of_Poultry_Tarragon_Pasta.png"
+    ],
+    "34773": [
+        "Canned Chocolate Raspberry Cake",
+        "https://wiki.guildwars2.com/images/8/81/Canned_Chocolate_Raspberry_Cake.png"
+    ],
+    "34775": [
+        "Can Of Asparagus And Sage Salad",
+        "https://wiki.guildwars2.com/images/8/87/Can_of_Asparagus_and_Sage_Salad.png"
+    ],
+    "34776": [
+        "Boxed Spicy Cheeseburger",
+        "https://wiki.guildwars2.com/images/e/e4/Boxed_Spicy_Cheeseburger.png"
+    ],
+    "34777": [
+        "Canned Tarragon Stuffed Poultry",
+        "https://wiki.guildwars2.com/images/c/c3/Canned_Tarragon_Stuffed_Poultry.png"
+    ],
+    "36406": [
+        "Plate Of Island Pudding",
+        "https://wiki.guildwars2.com/images/c/c2/Plate_of_Island_Pudding.png"
+    ],
+    "36508": [
+        "Plate Of Sweet Curried Mussels",
+        "https://wiki.guildwars2.com/images/b/b4/Plate_of_Sweet_Curried_Mussels.png"
+    ],
+    "37111": [
+        "Bowl Of Winterberry Seaweed Salad",
+        "https://wiki.guildwars2.com/images/3/3d/Bowl_of_Winterberry_Seaweed_Salad.png"
+    ],
+    "37475": [
+        "Winterberry Pie",
+        "https://wiki.guildwars2.com/images/d/d8/Winterberry_Pie.png"
+    ],
+    "37540": [
+        "Steak With Winterberry Sauce",
+        "https://wiki.guildwars2.com/images/5/50/Steak_with_Winterberry_Sauce.png"
+    ],
+    "38522": [
+        "Magnanimous Sharpening Stone",
+        "https://wiki.guildwars2.com/images/a/aa/Magnanimous_Sharpening_Stone.png"
+    ],
+    "38588": [
+        "Superior Sigil Of Bounty",
+        "https://wiki.guildwars2.com/images/f/f8/Superior_Sigil_of_Bounty.png"
+    ],
+    "38605": [
+        "Magnanimous Maintenance Oil",
+        "https://wiki.guildwars2.com/images/5/53/Magnanimous_Maintenance_Oil.png"
+    ],
+    "38678": [
+        "Magnanimous Tuning Crystal",
+        "https://wiki.guildwars2.com/images/2/23/Magnanimous_Tuning_Crystal.png"
+    ],
+    "39042": [
+        "Oysters With Pesto Sauce",
+        "https://wiki.guildwars2.com/images/5/58/Oysters_with_Pesto_Sauce.png"
+    ],
+    "39067": [
+        "Oysters Gnashblade",
+        "https://wiki.guildwars2.com/images/8/8e/Oysters_Gnashblade.png"
+    ],
+    "39302": [
+        "Fried Oysters",
+        "https://wiki.guildwars2.com/images/f/fc/Fried_Oysters.png"
+    ],
+    "39341": [
+        "Oysters With Cocktail Sauce",
+        "https://wiki.guildwars2.com/images/7/78/Oysters_with_Cocktail_Sauce.png"
+    ],
+    "39344": [
+        "Oysters With Zesty Sauce",
+        "https://wiki.guildwars2.com/images/9/93/Oysters_with_Zesty_Sauce.png"
+    ],
+    "39348": [
+        "Fried Oyster Sandwich",
+        "https://wiki.guildwars2.com/images/0/02/Fried_Oyster_Sandwich.png"
+    ],
+    "39500": [
+        "Oysters With Spicy Sauce",
+        "https://wiki.guildwars2.com/images/0/05/Oysters_with_Spicy_Sauce.png"
+    ],
+    "40014": [
+        "Cup Of Light Roasted Coffee",
+        "https://wiki.guildwars2.com/images/c/cf/Cup_of_Light-Roasted_Coffee.png"
+    ],
+    "40354": [
+        "Realm Portal Spike Finisher",
+        "https://wiki.guildwars2.com/images/5/59/Realm_Portal_Spike_Finisher.png"
+    ],
+    "41809": [
+        "Plate Of Sugar Rib Roast",
+        "https://wiki.guildwars2.com/images/6/6b/Plate_of_Sugar_Rib_Roast.png"
+    ],
+    "41983": [
+        "Superior Rune Of The Cavalier",
+        "https://wiki.guildwars2.com/images/9/94/Superior_Rune_of_the_Cavalier.png"
+    ],
+    "43333": [
+        "Bowl Of Elon Red",
+        "https://wiki.guildwars2.com/images/1/13/Bowl_of_%22Elon_Red%22.png"
+    ],
+    "43930": [
+        "Superior Sigil Of Severance",
+        "https://wiki.guildwars2.com/images/c/c2/Superior_Sigil_of_Severance.png"
+    ],
+    "44639": [
+        "Bowl Of Spiced Red Lentil Stew",
+        "https://wiki.guildwars2.com/images/6/68/Bowl_of_Spiced_Red_Lentil_Stew.png"
+    ],
+    "46214": [
+        "Bowl Of Red Lentil Soup",
+        "https://wiki.guildwars2.com/images/9/9c/Bowl_of_Red_Lentil_Soup.png"
+    ],
+    "46273": [
+        "Red Lentil Saobosa",
+        "https://wiki.guildwars2.com/images/a/a8/Red-Lentil_Saobosa.png"
+    ],
+    "46587": [
+        "Malnourished",
+        "https://wiki.guildwars2.com/images/6/67/Malnourished.png"
+    ],
+    "46668": [
+        "Diminished",
+        "https://wiki.guildwars2.com/images/7/71/Diminished.png"
+    ],
+    "46925": [
+        "Corsair Sharpening Stone",
+        "https://wiki.guildwars2.com/images/0/06/Corsair_Sharpening_Stone.png"
+    ],
+    "47904": [
+        "Choya Finisher",
+        "https://wiki.guildwars2.com/images/2/23/Choya_Finisher.png"
+    ],
+    "48348": [
+        "Corsair Tuning Crystal",
+        "https://wiki.guildwars2.com/images/f/f7/Corsair_Tuning_Crystal.png"
+    ],
+    "49001": [
+        "Sandshark Finisher",
+        "https://wiki.guildwars2.com/images/2/29/Sandshark_Finisher.png"
+    ],
+    "49296": [
+        "Bowl Of Poultry Satay",
+        "https://wiki.guildwars2.com/images/2/20/Bowl_of_Poultry_Satay.png"
+    ],
+    "49686": [
+        "Plate Of Beef Rendang",
+        "https://wiki.guildwars2.com/images/d/d0/Plate_of_Beef_Rendang.png"
+    ],
+    "50091": [
+        "Avocado Smoothie",
+        "https://wiki.guildwars2.com/images/8/83/Avocado_Smoothie.png"
+    ],
+    "50302": [
+        "Holographic Super Drumstick",
+        "https://wiki.guildwars2.com/images/1/1d/Holographic_Super_Drumstick.png"
+    ],
+    "50307": [
+        "Holographic Super Apple",
+        "https://wiki.guildwars2.com/images/e/ee/Holographic_Super_Apple.png"
+    ],
+    "50320": [
+        "Holographic Super Cheese",
+        "https://wiki.guildwars2.com/images/f/fa/Holographic_Super_Cheese.png"
+    ],
+    "50335": [
+        "Holographic Super Cake",
+        "https://wiki.guildwars2.com/images/0/01/Holographic_Super_Cake.png"
+    ],
+    "53222": [
+        "Soul Pastry",
+        "https://wiki.guildwars2.com/images/2/2c/Soul_Pastry.png"
+    ],
+    "53285": [
+        "Superior Rune Of The Monk",
+        "https://wiki.guildwars2.com/images/1/18/Superior_Rune_of_the_Monk.png"
+    ],
+    "53304": [
+        "Enhanced Lucent Oil",
+        "https://wiki.guildwars2.com/images/e/ee/Enhanced_Lucent_Oil.png"
+    ],
+    "53374": [
+        "Potent Lucent Oil",
+        "https://wiki.guildwars2.com/images/1/16/Potent_Lucent_Oil.png"
+    ],
+    "53384": [
+        "Can Of Stewed Oysters",
+        "https://wiki.guildwars2.com/images/9/9d/Can_of_Stewed_Oysters.png"
+    ],
+    "54561": [
+        "Dragon Crystal Potion",
+        "https://wiki.guildwars2.com/images/6/60/Dragon_Crystal_Potion.png"
+    ],
+    "56744": [
+        "Powerful Potion Of Branded Slaying",
+        "https://wiki.guildwars2.com/images/b/b5/Powerful_Potion_of_Branded_Slaying.png"
+    ],
+    "56670": [
+        "Minor Potion Of Slaying Scarlets Armies",
+        "https://wiki.guildwars2.com/images/4/46/Minor_Potion_of_Slaying_Scarlet%27s_Armies.png"
+    ],
+    "56772": [
+        "Powerful Potion Of Mordrem Slaying",
+        "https://wiki.guildwars2.com/images/7/7f/Powerful_Potion_of_Mordrem_Slaying.png"
+    ],
+    "56779": [
+        "Minor Potion Of Mordrem Slaying",
+        "https://wiki.guildwars2.com/images/5/53/Minor_Potion_of_Mordrem_Slaying.png"
+    ],
+    "56812": [
+        "Minor Potion Of Branded Slaying",
+        "https://wiki.guildwars2.com/images/8/81/Minor_Potion_of_Branded_Slaying.png"
+    ],
+    "56826": [
+        "Minor Potion Of Hologram Slaying",
+        "https://wiki.guildwars2.com/images/c/c9/Minor_Potion_of_Hologram_Slaying.png"
+    ],
+    "57037": [
+        "Spherified Sesame Oyster Soup",
+        "https://wiki.guildwars2.com/images/5/51/Spherified_Sesame_Oyster_Soup.png"
+    ],
+    "57042": [
+        "Plate Of Beef Carpaccio With Salsa Garnish",
+        "https://wiki.guildwars2.com/images/8/88/Plate_of_Beef_Carpaccio_with_Salsa_Garnish.png"
+    ],
+    "57050": [
+        "Sesame Veggie Flatbread",
+        "https://wiki.guildwars2.com/images/d/db/Sesame_Veggie_Flatbread.png"
+    ],
+    "57051": [
+        "Peppercorn Crusted Sous Vide Steak",
+        "https://wiki.guildwars2.com/images/2/2e/Peppercorn-Crusted_Sous-Vide_Steak.png"
+    ],
+    "69141": [
+        "Mists-Infused Peppercorn Crusted Sous Vide Steak",
+        "https://wiki.guildwars2.com/images/2/2e/Peppercorn-Crusted_Sous-Vide_Steak.png"
+    ],
+    "57064": [
+        "Mint Pear Cured Meat Flatbread",
+        "https://wiki.guildwars2.com/images/6/60/Mint-Pear_Cured_Meat_Flatbread.png"
+    ],
+    "57067": [
+        "Spiced Pepper Creme Brulee",
+        "https://wiki.guildwars2.com/images/b/ba/Spiced_Pepper_Creme_Brulee.png"
+    ],
+    "57072": [
+        "Clove Spiced Pear And Cured Meat Flatbread",
+        "https://wiki.guildwars2.com/images/c/c5/Clove-Spiced_Pear_and_Cured_Meat_Flatbread.png"
+    ],
+    "57084": [
+        "Sesame Eggs Benedict",
+        "https://wiki.guildwars2.com/images/f/f5/Sesame_Eggs_Benedict.png"
+    ],
+    "57100": [
+        "Bowl Of Fruit Salad With Mint Garnish",
+        "https://wiki.guildwars2.com/images/4/47/Bowl_of_Fruit_Salad_with_Mint_Garnish.png"
+    ],
+    "69105": [
+        "Mists-Infused Bowl Of Fruit Salad With Mint Garnish",
+        "https://wiki.guildwars2.com/images/4/47/Bowl_of_Fruit_Salad_with_Mint_Garnish.png"
+    ],
+    "57101": [
+        "Bowl Of Sesame Fruit Salad",
+        "https://wiki.guildwars2.com/images/0/01/Bowl_of_Sesame_Fruit_Salad.png"
+    ],
+    "57112": [
+        "Plate Of Clear Truffle And Mint Ravioli",
+        "https://wiki.guildwars2.com/images/9/9e/Plate_of_Clear_Truffle_and_Mint_Ravioli.png"
+    ],
+    "57114": [
+        "Plate Of Peppercorn Spiced Beef Carpaccio",
+        "https://wiki.guildwars2.com/images/4/40/Plate_of_Peppercorn-Spiced_Beef_Carpaccio.png"
+    ],
+    "57117": [
+        "Salsa Eggs Benedict",
+        "https://wiki.guildwars2.com/images/7/79/Salsa_Eggs_Benedict.png"
+    ],
+    "57127": [
+        "Peppered Cured Meat Flatbread",
+        "https://wiki.guildwars2.com/images/2/2d/Peppered_Cured_Meat_Flatbread.png"
+    ],
+    "57129": [
+        "Spiced Peppercorn Cheesecake",
+        "https://wiki.guildwars2.com/images/9/9c/Spiced_Peppercorn_Cheesecake.png"
+    ],
+    "57155": [
+        "Plate Of Peppered Clear Truffle Ravioli",
+        "https://wiki.guildwars2.com/images/f/fe/Plate_of_Peppered_Clear_Truffle_Ravioli.png"
+    ],
+    "57165": [
+        "Spherified Peppercorn Spiced Oyster Soup",
+        "https://wiki.guildwars2.com/images/4/43/Spherified_Peppercorn-Spiced_Oyster_Soup.png"
+    ],
+    "69124": [
+        "Mists-Infused Spherified Peppercorn Spiced Oyster Soup",
+        "https://wiki.guildwars2.com/images/4/43/Spherified_Peppercorn-Spiced_Oyster_Soup.png"
+    ],
+    "57178": [
+        "Plate Of Poultry Aspic With Mint Garnish",
+        "https://wiki.guildwars2.com/images/9/91/Plate_of_Poultry_Aspic_with_Mint_Garnish.png"
+    ],
+    "57187": [
+        "Plate Of Eggs Benedict",
+        "https://wiki.guildwars2.com/images/2/2b/Plate_of_Eggs_Benedict.png"
+    ],
+    "57194": [
+        "Sesame Creme Brulee",
+        "https://wiki.guildwars2.com/images/6/63/Sesame_Creme_Brulee.png"
+    ],
+    "57201": [
+        "Spherified Oyster Soup With Mint Garnish",
+        "https://wiki.guildwars2.com/images/6/63/Spherified_Oyster_Soup_with_Mint_Garnish.png"
+    ],
+    "57205": [
+        "Plate Of Sesame Poultry Aspic",
+        "https://wiki.guildwars2.com/images/6/64/Plate_of_Sesame_Poultry_Aspic.png"
+    ],
+    "57210": [
+        "Peppercorn Spiced Eggs Benedict",
+        "https://wiki.guildwars2.com/images/c/c6/Peppercorn-Spiced_Eggs_Benedict.png"
+    ],
+    "57211": [
+        "Orange Clove Cheesecake",
+        "https://wiki.guildwars2.com/images/3/3f/Orange_Clove_Cheesecake.png"
+    ],
+    "57213": [
+        "Plate Of Clear Truffle And Sesame Ravioli",
+        "https://wiki.guildwars2.com/images/d/de/Plate_of_Clear_Truffle_and_Sesame_Ravioli.png"
+    ],
+    "57222": [
+        "Sesame Asparagus And Cured Meat Flatbread",
+        "https://wiki.guildwars2.com/images/8/87/Sesame-Asparagus_and_Cured_Meat_Flatbread.png"
+    ],
+    "57231": [
+        "Plate Of Sesame Ginger Beef Carpaccio",
+        "https://wiki.guildwars2.com/images/b/b7/Plate_of_Sesame-Ginger_Beef_Carpaccio.png"
+    ],
+    "57237": [
+        "Plate Of Clove Spiced Beef Carpaccio",
+        "https://wiki.guildwars2.com/images/4/44/Plate_of_Clove-Spiced_Beef_Carpaccio.png"
+    ],
+    "57239": [
+        "Strawberry Cilantro Cheesecake",
+        "https://wiki.guildwars2.com/images/8/8d/Strawberry_Cilantro_Cheesecake.png"
+    ],
+    "57241": [
+        "Soy Sesame Sous Vide Steak",
+        "https://wiki.guildwars2.com/images/d/da/Soy-Sesame_Sous-Vide_Steak.png"
+    ],
+    "57242": [
+        "Clove Spiced Eggs Benedict",
+        "https://wiki.guildwars2.com/images/7/7d/Clove-Spiced_Eggs_Benedict.png"
+    ],
+    "57244": [
+        "Cilantro Lime Sous Vide Steak",
+        "https://wiki.guildwars2.com/images/6/65/Cilantro_Lime_Sous-Vide_Steak.png"
+    ],
+    "57251": [
+        "Plate Of Beef Carpaccio With Mint Garnish",
+        "https://wiki.guildwars2.com/images/4/42/Plate_of_Beef_Carpaccio_with_Mint_Garnish.png"
+    ],
+    "57253": [
+        "Plate Of Coq Au Vin With Salsa",
+        "https://wiki.guildwars2.com/images/8/80/Plate_of_Coq_Au_Vin_with_Salsa.png"
+    ],
+    "57259": [
+        "Eggs Benedict With Mint Parsley Sauce",
+        "https://wiki.guildwars2.com/images/9/92/Eggs_Benedict_with_Mint-Parsley_Sauce.png"
+    ],
+    "57260": [
+        "Plate Of Peppercorn Spiced Coq Au Vin",
+        "https://wiki.guildwars2.com/images/4/43/Plate_of_Peppercorn-Spiced_Coq_Au_Vin.png"
+    ],
+    "57263": [
+        "Mint And Veggie Flatbread",
+        "https://wiki.guildwars2.com/images/f/f9/Mint_and_Veggie_Flatbread.png"
+    ],
+    "57267": [
+        "Mango Cilantro Creme Brulee",
+        "https://wiki.guildwars2.com/images/3/3d/Mango_Cilantro_Creme_Brulee.png"
+    ],
+    "57269": [
+        "Salsa Topped Veggie Flatbread",
+        "https://wiki.guildwars2.com/images/f/f3/Salsa-Topped_Veggie_Flatbread.png"
+    ],
+    "57276": [
+        "Bowl Of Spiced Fruit Salad",
+        "https://wiki.guildwars2.com/images/9/9c/Bowl_of_Spiced_Fruit_Salad.png"
+    ],
+    "57290": [
+        "Plate Of Sesame Crusted Coq Au Vin",
+        "https://wiki.guildwars2.com/images/3/3e/Plate_of_Sesame-Crusted_Coq_Au_Vin.png"
+    ],
+    "57295": [
+        "Plate Of Clear Truffle And Cilantro Ravioli",
+        "https://wiki.guildwars2.com/images/0/05/Plate_of_Clear_Truffle_and_Cilantro_Ravioli.png"
+    ],
+    "57299": [
+        "Plate Of Peppercorn Spiced Poultry Aspic",
+        "https://wiki.guildwars2.com/images/4/4f/Plate_of_Peppercorn-Spiced_Poultry_Aspic.png"
+    ],
+    "57302": [
+        "Plate Of Clove Spiced Poultry Aspic",
+        "https://wiki.guildwars2.com/images/5/50/Plate_of_Clove-Spiced_Poultry_Aspic.png"
+    ],
+    "57310": [
+        "Mint Creme Brulee",
+        "https://wiki.guildwars2.com/images/3/31/Mint_Creme_Brulee.png"
+    ],
+    "57320": [
+        "Chefs Tasting Platter",
+        "https://wiki.guildwars2.com/images/c/c8/Feast_veggie_tier_6.png"
+    ],
+    "57328": [
+        "Sesame Cheesecake",
+        "https://wiki.guildwars2.com/images/e/ef/Sesame_Cheesecake.png"
+    ],
+    "57341": [
+        "Plate Of Poultry Aspic With Salsa Garnish",
+        "https://wiki.guildwars2.com/images/5/5b/Plate_of_Poultry_Aspic_with_Salsa_Garnish.png"
+    ],
+    "57342": [
+        "Sous Vide Steak With Mint Parsley Sauce",
+        "https://wiki.guildwars2.com/images/9/99/Sous-Vide_Steak_with_Mint-Parsley_Sauce.png"
+    ],
+    "57344": [
+        "Clove And Veggie Flatbread",
+        "https://wiki.guildwars2.com/images/6/6e/Clove_and_Veggie_Flatbread.png"
+    ],
+    "57348": [
+        "Plate Of Clove Spiced Coq Au Vin",
+        "https://wiki.guildwars2.com/images/d/dc/Plate_of_Clove-Spiced_Coq_Au_Vin.png"
+    ],
+    "57356": [
+        "Spherified Cilantro Oyster Soup",
+        "https://wiki.guildwars2.com/images/e/e1/Spherified_Cilantro_Oyster_Soup.png"
+    ],
+    "57362": [
+        "Plate Of Coq Au Vin With Mint Garnish",
+        "https://wiki.guildwars2.com/images/7/7c/Plate_of_Coq_Au_Vin_with_Mint_Garnish.png"
+    ],
+    "57374": [
+        "Spherified Clove Spiced Oyster Soup",
+        "https://wiki.guildwars2.com/images/f/fa/Spherified_Clove-Spiced_Oyster_Soup.png"
+    ],
+    "57379": [
+        "Plate Of Clove Spiced Clear Truffle Ravioli",
+        "https://wiki.guildwars2.com/images/c/c2/Plate_of_Clove-Spiced_Clear_Truffle_Ravioli.png"
+    ],
+    "57382": [
+        "Peppercorn And Veggie Flatbread",
+        "https://wiki.guildwars2.com/images/9/9d/Peppercorn_and_Veggie_Flatbread.png"
+    ],
+    "57384": [
+        "Mint Strawberry Cheesecake",
+        "https://wiki.guildwars2.com/images/6/64/Mint_Strawberry_Cheesecake.png"
+    ],
+    "57393": [
+        "Mushroom Clove Sous Vide Steak",
+        "https://wiki.guildwars2.com/images/b/ba/Mushroom_Clove_Sous-Vide_Steak.png"
+    ],
+    "57394": [
+        "Clove Spiced Creme Brulee",
+        "https://wiki.guildwars2.com/images/a/a2/Clove-Spiced_Creme_Brulee.png"
+    ],
+    "57397": [
+        "Bowl Of Fruit Salad With Orange Clove Syrup",
+        "https://wiki.guildwars2.com/images/d/dc/Bowl_of_Fruit_Salad_with_Orange-Clove_Syrup.png"
+    ],
+    "57401": [
+        "Bowl Of Fruit Salad With Cilantro Garnish",
+        "https://wiki.guildwars2.com/images/0/08/Bowl_of_Fruit_Salad_with_Cilantro_Garnish.png"
+    ],
+    "57409": [
+        "Cilantro And Cured Meat Flatbread",
+        "https://wiki.guildwars2.com/images/8/87/Cilantro_and_Cured_Meat_Flatbread.png"
+    ],
+    "57853": [
+        "Bowl Of Firebreather Chili",
+        "https://wiki.guildwars2.com/images/c/c6/Bowl_of_Firebreather_Chili.png"
+    ],
+    "57883": [
+        "Plate Of Spicy Moa Wings",
+        "https://wiki.guildwars2.com/images/f/ff/Plate_of_Spicy_Moa_Wings.png"
+    ],
+    "57982": [
+        "Bowl Of Carne Khan Chili",
+        "https://wiki.guildwars2.com/images/d/da/Bowl_of_Carne_Khan_Chili.png"
+    ],
+    "58014": [
+        "Bowl Of Green Chile Ice Cream",
+        "https://wiki.guildwars2.com/images/f/f7/Bowl_of_Green_Chile_Ice_Cream.png"
+    ],
+    "62677": [
+        "Fried Banana Chips",
+        "https://wiki.guildwars2.com/images/0/03/Fried_Banana_Chips.png"
+    ],
+    "63019": [
+        "Homemade Campfire Treat",
+        "https://wiki.guildwars2.com/images/3/30/Homemade_Campfire_Treat.png"
+    ],
+    "63482": [
+        "Turron Slice",
+        "https://wiki.guildwars2.com/images/d/d6/Turr%C3%B3n_Slice.png"
+    ],
+    "63487": [
+        "Longevity Noodles",
+        "https://wiki.guildwars2.com/images/e/eb/Longevity_Noodles.png"
+    ],
+    "64357": [
+        "Bowl Of Jade Sea Bounty",
+        "https://wiki.guildwars2.com/images/4/40/Bowl_of_Jade_Sea_Bounty.png"
+    ],
+    "64562": [
+        "Plate Of Crispy Fish Pancakes",
+        "https://wiki.guildwars2.com/images/f/f5/Plate_of_Crispy_Fish_Pancakes.png"
+    ],
+    "64568": [
+        "Meaty Asparagus Skewer",
+        "https://wiki.guildwars2.com/images/d/d6/Meaty_Asparagus_Skewer.png"
+    ],
+    "64829": [
+        "Bowl Of Fish Stew",
+        "https://wiki.guildwars2.com/images/f/f2/Bowl_of_Fish_Stew.png"
+    ],
+    "64896": [
+        "Orangefish Sushi",
+        "https://wiki.guildwars2.com/images/3/3e/Orangefish_Sushi.png"
+    ],
+    "64931": [
+        "Redfish Sushi",
+        "https://wiki.guildwars2.com/images/3/30/Redfish_Sushi.png"
+    ],
+    "65197": [
+        "Bowl Of Kimchi Tofu Stew",
+        "https://wiki.guildwars2.com/images/2/22/Bowl_of_Kimchi_Tofu_Stew.png"
+    ],
+    "65354": [
+        "Meaty Rice Bowl",
+        "https://wiki.guildwars2.com/images/6/65/Meaty_Rice_Bowl.png"
+    ],
+    "65613": [
+        "Yellowfish Sushi",
+        "https://wiki.guildwars2.com/images/8/82/Yellowfish_Sushi.png"
+    ],
+    "65769": [
+        "Plate Of Kimchi Pancakes",
+        "https://wiki.guildwars2.com/images/3/34/Plate_of_Kimchi_Pancakes.png"
+    ],
+    "65937": [
+        "Block Of Tofu",
+        "https://wiki.guildwars2.com/images/f/fa/Block_of_Tofu.png"
+    ],
+    "66342": [
+        "Whitefish Sushi",
+        "https://wiki.guildwars2.com/images/4/41/Whitefish_Sushi.png"
+    ],
+    "66503": [
+        "Fishy Rice Bowl",
+        "https://wiki.guildwars2.com/images/1/14/Fishy_Rice_Bowl.png"
+    ],
+    "66663": [
+        "Bowl Of Echovald Hotpot",
+        "https://wiki.guildwars2.com/images/e/e1/Bowl_of_Echovald_Hotpot.png"
+    ],
+    "67265": [
+        "Plate Of Imperial Palace Special",
+        "https://wiki.guildwars2.com/images/c/c4/Plate_of_Imperial_Palace_Special.png"
+    ],
+    "67705": [
+        "Flight Of Sushi",
+        "https://wiki.guildwars2.com/images/8/87/Flight_of_Sushi.png"
+    ],
+    "67796": [
+        "Fools Dog Treat",
+        "https://wiki.guildwars2.com/images/5/50/Fool%27s_Dog_Treat.png"
+    ],
+    "68235": [
+        "Decade Enhancement",
+        "https://wiki.guildwars2.com/images/7/76/Decade_Enhancement_Station.png"
+    ],
+    "69606": [
+        "Relic Of The Herald",
+        "https://wiki.guildwars2.com/images/6/64/Relic_of_the_Herald.png"
+    ],
+    "69795": [
+        "Relic Of The Aristocracy",
+        "https://wiki.guildwars2.com/images/6/60/Relic_of_the_Aristocracy.png"
+    ],
+    "69849": [
+        "Relic Of The Nightmare",
+        "https://wiki.guildwars2.com/images/5/51/Relic_of_the_Nightmare.png"
+    ],
+    "69855": [
+        "Relic Of Fireworks",
+        "https://wiki.guildwars2.com/images/6/6c/Relic_of_Fireworks.png"
+    ],
+    "69961": [
+        "Relic Of Vass",
+        "https://wiki.guildwars2.com/images/f/f2/Relic_of_Vass.png"
+    ],
+    "69992": [
+        "Relic Of Mabon",
+        "https://wiki.guildwars2.com/images/c/c4/Relic_of_Mabon.png"
+    ],
+    "70044": [
+        "Relic Of Akeem",
+        "https://wiki.guildwars2.com/images/5/50/Relic_of_Akeem.png"
+    ],
+    "70223": [
+        "Relic Of The Afflicted",
+        "https://wiki.guildwars2.com/images/9/91/Relic_of_the_Afflicted.png"
+    ],
+    "70282": [
+        "Relic Of The Deadeye",
+        "https://wiki.guildwars2.com/images/0/08/Relic_of_the_Deadeye.png"
+    ],
+    "70353": [
+        "Relic Of Lyhr",
+        "https://wiki.guildwars2.com/images/f/f4/Relic_of_Lyhr.png"
+    ],
+    "70390": [
+        "Relic Of The Weaver",
+        "https://wiki.guildwars2.com/images/e/e5/Relic_of_the_Weaver.png"
+    ],
+    "70460": [
+        "Relic Of The Zephyrite",
+        "https://wiki.guildwars2.com/images/e/e4/Relic_of_the_Zephyrite.png"
+    ],
+    "70491": [
+        "Relic Of The Wizards Tower",
+        "https://wiki.guildwars2.com/images/e/ea/Relic_of_the_Wizard%27s_Tower.png"
+    ],
+    "70530": [
+        "Relic Of The Krait",
+        "https://wiki.guildwars2.com/images/7/7e/Relic_of_the_Krait.png"
+    ],
+    "70617": [
+        "Relic Of The Sunless",
+        "https://wiki.guildwars2.com/images/b/b6/Relic_of_the_Sunless.png"
+    ],
+    "70622": [
+        "Relic Of The Mirage",
+        "https://wiki.guildwars2.com/images/d/d3/Relic_of_the_Mirage.png"
+    ],
+    "70765": [
+        "Relic Of The Flock",
+        "https://wiki.guildwars2.com/images/1/1b/Relic_of_the_Flock.png"
+    ],
+    "70767": [
+        "Relic Of The Thief",
+        "https://wiki.guildwars2.com/images/0/04/Relic_of_the_Thief.png"
+    ],
+    "70839": [
+        "Relic Of The Daredevil",
+        "https://wiki.guildwars2.com/images/9/9f/Relic_of_the_Daredevil.png"
+    ],
+    "70913": [
+        "Relic Of The Brawler",
+        "https://wiki.guildwars2.com/images/3/30/Relic_of_the_Brawler.png"
+    ],
+    "70975": [
+        "Relic Of The Scourge",
+        "https://wiki.guildwars2.com/images/2/28/Relic_of_the_Scourge.png"
+    ],
+    "71051": [
+        "Relic Of The Ice",
+        "https://wiki.guildwars2.com/images/5/55/Relic_of_the_Ice.png"
+    ],
+    "71132": [
+        "Relic Of The Monk",
+        "https://wiki.guildwars2.com/images/c/c9/Relic_of_the_Monk.png"
+    ],
+    "71134": [
+        "Relic Of The Astral Ward",
+        "https://wiki.guildwars2.com/images/0/04/Relic_of_the_Astral_Ward.png"
+    ],
+    "71166": [
+        "Relic Of The Citadel",
+        "https://wiki.guildwars2.com/images/3/36/Relic_of_the_Citadel.png"
+    ],
+    "71217": [
+        "Relic Of The Firebrand",
+        "https://wiki.guildwars2.com/images/3/36/Relic_of_the_Firebrand.png"
+    ],
+    "72707": [
+        "Relic Of The Twin Generals",
+        "https://wiki.guildwars2.com/images/0/0e/Relic_of_the_Twin_Generals.png"
+    ],
+    "73794": [
+        "Relic Of The Blightbringer",
+        "https://wiki.guildwars2.com/images/3/3f/Relic_of_Nourys.png"
+    ],
+    "73955": [
+        "Relic Of The Claw",
+        "https://wiki.guildwars2.com/images/7/7f/Relic_of_the_Claw.png"
+    ],
+    "74793": [
+        "Relic Of Mount Balrior",
+        "https://wiki.guildwars2.com/images/a/a9/Relic_of_Mount_Balrior.png"
+    ],
+    "74988": [
+        "Relic Of The Beehive",
+        "https://wiki.guildwars2.com/images/4/49/Relic_of_the_Beehive.png"
+    ],
+    "75432": [
+        "Relic Of Thorns",
+        "https://render.guildwars2.com/file/B6166933459C27FE500FCC23B572A7AE2A0F4DDA/3592841.png"
+    ],
+    "75748": [
+        "Relic Of The Holosmith",
+        "https://render.guildwars2.com/file/0976F60805023D2F14DA6CC72F55F3D64407C7AF/3592836.png"
+    ]
+}
